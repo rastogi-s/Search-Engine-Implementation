@@ -1,0 +1,90 @@
+CACM-1856
+----------------------------------------------------
+correctly RELATING text to the memory s prior content 
+combining these copies to represent the meaning of the 
+creates copies of the parts of its memory which have 
+been found to relate to the new text adapting and 
+
+
+
+CACM-2342
+----------------------------------------------------
+of the existence of certain sequences a mechanical 
+to any of the interference properties it is shown 
+and the associated subproblems are formulated 
+the formation of partial rules and the calculation of 
+
+
+
+CACM-1961
+----------------------------------------------------
+the speed of the algorithm to the number of vertices and the number 
+length a rigorous proof of the algorithm is given as well as an example 
+of the elementary CIRCUITS with a particular attribute such as 
+of arcs the speed is also related to the number of CIRCUITS 
+
+
+
+CACM-0320
+----------------------------------------------------
+and expressing the logic required in procedures 
+both the sequential and PARALLEL aspects of logic they 
+operations systems and CIRCUITS a set of rules for 
+writing and using logic tables is explained by 
+
+
+
+CACM-2714
+----------------------------------------------------
+steps in the general case and km p k 1 2 m p log2 
+m in the special case where n km 
+PARALLEL processing PARALLEL merging PARALLEL binary insertion 
+b n m n and p p m PARALLEL processors 
+
+
+
+CACM-2401
+----------------------------------------------------
+any pattern regardless of the COMPLEXITY of 
+a hardware implementation of the algorithm using large 
+as the determination of the maximum number of steps 
+nature of the process and the possibility of shrinking 
+
+
+
+CACM-2851
+----------------------------------------------------
+enumeration of the set of all possible control states 
+a special case of the assertions method which 
+methods are special cases of the induction principle 
+yields an extension to the deadlock problem 
+
+
+
+CACM-2685
+----------------------------------------------------
+the PARALLEL execution of do loops 
+4 12 5 24 
+PARALLEL computing multiprocessor computers 
+asynchronous multiprocessor computers and array computers 
+
+
+
+CACM-3059
+----------------------------------------------------
+and applied to the analysis of these problems 
+for systemtems in which the i o system is more 
+is developed by network decomposition the 
+utilized than the cpu 
+
+
+
+CACM-2195
+----------------------------------------------------
+of the problem is not embedded in the recognition algorithm 
+in the particular problem is achieved the relation 
+the COMPLEXITY of the optimization process is then discussed 
+between the structure of the figure of merit and 
+
+
+

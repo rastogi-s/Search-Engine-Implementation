@@ -1,0 +1,90 @@
+CACM-2372
+----------------------------------------------------
+decision rules and whose row and column indices are 
+users and data items respectively a set of four 
+dependent and data independent decision rules enables 
+SECURITY features of several existing SYSTEMS and serves 
+
+
+
+CACM-3076
+----------------------------------------------------
+developments and the social problems they raise 
+in the context of social choice 
+value conflicts and social choice in electronic 
+in the context of conflicts between five different value 
+
+
+
+CACM-3068
+----------------------------------------------------
+precise definition of data SECURITY is developed 
+many of those properties of an OPERATING SYSTEM which 
+are necessary to assure reliable enforcement of 
+SECURITY the application of this approach to the 
+
+
+
+CACM-3158
+----------------------------------------------------
+store confidential files in the central facility or transmit confidential 
+for his own SECURITY and need not rely on the SECURITY of 
+with one or more central facilities is proposed the method employs a 
+data to other users on the NETWORK 
+
+
+
+CACM-2046
+----------------------------------------------------
+of redundancy and consistency in the user s model 
+of changes in query update and report traffic and natural growth in the 
+data bank data base data structure data organization 
+of data is changed and even when some aspects of the external representation 
+
+
+
+CACM-2949
+----------------------------------------------------
+on such a topology information scheme is that 
+to update this information one of the major constrain ts 
+a correctness proof of a topology information 
+NETWORK 
+
+
+
+CACM-2622
+----------------------------------------------------
+the scheme are discussed 
+by anyone attempting to intrude the scheme is based 
+a user authentication scheme not requiring secrecy in the computer 
+have access to the table but he can penetrate the SYSTEM 
+
+
+
+CACM-1928
+----------------------------------------------------
+of serial and simultaneous activities the passage of 
+as the event queue grows in length and a simulation 
+the elimination of manual processes in achieving 
+and asynchronous logic certain aspects 
+
+
+
+CACM-3128
+----------------------------------------------------
+to protection mechanisms in the SYSTEM is explained in particular 
+SYSTEMS the mechanism is defined formally and then several 
+examples of its use are given the relationship of the mechanism 
+exclusion to protect manipulations of shared variables that control 
+
+
+
+CACM-2951
+----------------------------------------------------
+if the ultimate aim of a computing NETWORK 
+well as the technical component of networking must 
+node the research clearly reveals that sufficient 
+in the vast store of resources available 
+
+
+

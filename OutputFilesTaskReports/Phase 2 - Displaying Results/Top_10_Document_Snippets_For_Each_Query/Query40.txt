@@ -1,0 +1,90 @@
+CACM-2470
+----------------------------------------------------
+questions of local and global environments and of 
+with the use of the paradoxical combinator y the 
+as a DATA item and how imperative statements 
+structuring and uniting it is also demonstrated 
+
+
+
+CACM-3105
+----------------------------------------------------
+expression of access constraints on shared DATA 
+to objects that are components of larger objects 
+LANGUAGE but is particularly suitable for extending 
+access constraints can apply both to simple objects and 
+
+
+
+CACM-2940
+----------------------------------------------------
+the properties of the generators for such iterations 
+and the control STRUCTURE of the LANGUAGE itself a 
+to be expressed in the form of proof rules are developed 
+means of showing that a generator will terminate is also provided 
+
+
+
+CACM-2265
+----------------------------------------------------
+of the program is resolved by reducing its corresponding 
+within a decidable subset of the lambda calculus which 
+problems faced for any notion of TYPE checking 
+of the TYPE wise correctness or incorrectness 
+
+
+
+CACM-2931
+----------------------------------------------------
+a portion of the field and there has been perhaps too 
+the definition of the precise meaning of a program 
+in the efficiency of decision methods have become available 
+so far the theories of automata and of nets though 
+
+
+
+CACM-1470
+----------------------------------------------------
+the DATA itself 2 by referring to the DATA by 
+a basic instruction of the programming LANGUAGE 
+influencing the choice of a form of component 
+the author discusses advantages disadvantages and factors 
+
+
+
+CACM-2254
+----------------------------------------------------
+detail to be of value in the design of other array LANGUAGES 
+which are used to derive and maintain the array control 
+LANGUAGE design array control blocks partition control blocks 
+the value of partitioning for array LANGUAGES 
+
+
+
+CACM-2651
+----------------------------------------------------
+and very flexible DATA TYPE behavior in a context that 
+programmer defined DATA TYPES DATA TYPES and generic 
+treatment of DATA TYPES includes provision for 
+set of DATA TYPES and associated operations in a manner 
+
+
+
+CACM-2941
+----------------------------------------------------
+ca770802 jb december 28 1977 8 07 am 
+cacm august 1977 
+TYPES and TYPE coercions the benefits of the TYPE system 
+difficulty of making the treatment of variant records safe 
+
+
+
+CACM-2939
+----------------------------------------------------
+in the programming process of these only the 
+means of programming examples the utility of the three 
+be written to use and implement abstractions the 
+control abstractions this PAPER provides an in troduction 
+
+
+

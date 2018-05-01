@@ -1,0 +1,90 @@
+CACM-2973
+----------------------------------------------------
+elements on an n x n mesh connected processor 
+to higher dimensional arrays are also given 
+cacm april 1977 
+array that require o n routing and comparison steps 
+
+
+
+CACM-3075
+----------------------------------------------------
+location 
+PARALLEL processing sorting ALGORITHMS bucket sort 
+n using n 1 1 k processors for k an arbitrary 
+integer the model of computation for this procedure 
+
+
+
+CACM-1601
+----------------------------------------------------
+which use the technique of the procedures in 
+a single new approximation to the root in question a 
+solution of equations provide at each stage 
+classical iterative procedures for the numerical 
+
+
+
+CACM-2838
+----------------------------------------------------
+needs to wait on the collector these techniques 
+for the long times that garbage collection normally requires 
+suspending the operations of a list processor 
+suitable for measuring the typical behavior of 
+
+
+
+CACM-3156
+----------------------------------------------------
+graph theory PARALLEL processing ALGORITHMS 
+sarwate d 
+we present a PARALLEL ALGORITHM which uses n2 processors to find the connected 
+cacm august 1979 
+
+
+
+CACM-1468
+----------------------------------------------------
+also a few computer generated outputs using this grammar 
+this paper descriptive models by considering their 
+this to bubble chamber pictures the PARALLEL processing 
+on labeling techniques using PARALLEL processing 
+
+
+
+CACM-2266
+----------------------------------------------------
+to the zeros is guaranteed multiple zeros and 
+5 15 
+a highly PARALLEL ALGORITHM for approximating 
+their multiplicity are readily determined at no 
+
+
+
+CACM-0950
+----------------------------------------------------
+of numerical analysis will have to be recast in a more 
+cacm december 1964 
+the numerical integration of an ordinary differential 
+PARALLEL form by this is meant that serial 
+
+
+
+CACM-2692
+----------------------------------------------------
+capable of clipping the polygon against a single boundary 
+dimensions removing the parts of the polygon which 
+that a new vertex may be required at a corner of the 
+a new family of clipping ALGORITHMS is described 
+
+
+
+CACM-2570
+----------------------------------------------------
+dickson j r 
+which consists of a set of partially ordered tasks 
+times are random variables is presented 
+list scheduling optimization dynamic programming 
+
+
+

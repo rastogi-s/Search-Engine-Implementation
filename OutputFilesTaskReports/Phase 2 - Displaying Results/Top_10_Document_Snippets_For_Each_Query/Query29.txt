@@ -1,0 +1,90 @@
+CACM-1933
+----------------------------------------------------
+uniform probability density uniform frequency 
+greater than 31 computer the computation method is 
+extendible to limited problems in modular arithmetic 
+pseudo random NUMBER random NUMBER modular arithmetic 
+
+
+
+CACM-2927
+----------------------------------------------------
+without preprocessing use of preprocessing techniques 
+mairson h g 
+tradeoffs reduces this upper bound to o n log logn 
+n a modified SIEVE of eratosthenes using doubly linked 
+
+
+
+CACM-3021
+----------------------------------------------------
+later deny the validity of his signature this 
+only he knows the corresponding decryption key 2 
+an encryption method is presented with the novel 
+an encryption key publicly revealed by the intended recipient 
+
+
+
+CACM-2770
+----------------------------------------------------
+limited mainly to the case where the table size 
+quadratic hash functions 
+is a PRIME NUMBER here certain results are derived for 
+previous work on quadratic hash methods is 
+
+
+
+CACM-1841
+----------------------------------------------------
+3 15 5 30 5 31 
+treesort principle ALGORITHM 356 a1 
+a PRIME NUMBER generator using the 
+singleton r c 
+
+
+
+CACM-1840
+----------------------------------------------------
+3 15 5 30 
+ca691006 jb february 15 1978 3 23 pm 
+singleton r c 
+PRIME numbers factoring NUMBER theory 
+
+
+
+CACM-1539
+----------------------------------------------------
+311 a1 
+chartres b a 
+cacm september 1967 
+ca670907c jb march 23 1978 2 37 pm 
+
+
+
+CACM-1691
+----------------------------------------------------
+two generators to the ibm 360 is then discussed 
+behavior the older mixed and simple congruential 
+attributed to d h lehmer has passed the usual statistical 
+a comparison of the correlational behavior 
+
+
+
+CACM-1420
+----------------------------------------------------
+tests and in addition the least significant bits 
+appear to be as random as the most significant bits a 
+PRIME this generator passes the usual statistical 
+and the multiplier is a primitive root of that 
+
+
+
+CACM-2089
+----------------------------------------------------
+5 0 
+PRIME NUMBER ALGORITHM 310 a1 
+cacm march 1970 
+rapp d g 
+
+
+

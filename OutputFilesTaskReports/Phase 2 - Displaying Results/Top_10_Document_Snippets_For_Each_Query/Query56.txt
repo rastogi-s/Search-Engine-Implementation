@@ -1,0 +1,90 @@
+CACM-2931
+----------------------------------------------------
+a portion of the field and there has been perhaps too 
+the definition of the precise meaning of a program 
+in the efficiency of decision methods have become available 
+so far the theories of AUTOMATA and of nets though 
+
+
+
+CACM-2650
+----------------------------------------------------
+spelling correction string best match problem correction 
+ca740503 jb january 17 1978 4 26 pm 
+finite state AUTOMATA compiler error recovery 
+a method is presented for calculating a string 
+
+
+
+CACM-2327
+----------------------------------------------------
+of the brain has been pushed aside in mathematical 
+resolution of redundancy of potential command 
+development of the THEORY this paper suggests the ways 
+of how the brain processes information 
+
+
+
+CACM-1678
+----------------------------------------------------
+switching and computability that might be available 
+role of each of the courses in the graduate program 
+cacm november 1968 
+a number of courses are listed in the area 
+
+
+
+CACM-2921
+----------------------------------------------------
+and provides the same advantages informally 
+an rrp lr m k parser can determine the right end of 
+the right of the handle and the left end after the 
+m symbols to the left of the handle a mechanism for 
+
+
+
+CACM-2112
+----------------------------------------------------
+directed compilers finite state AUTOMATA 
+parsing meta compilers pushdown transducer syntax 
+recognition and parsing may be treated as special cases of the translation 
+4 10 4 12 4 20 5 22 
+
+
+
+CACM-2061
+----------------------------------------------------
+in the second part the utility of the algorithm is discuss 
+ed in the light of the experience gained from its use in compiler design 
+an algorithm for the construction of bounded context parsers 
+pushdown AUTOMATA which generate the different reduction classes 
+
+
+
+CACM-1665
+----------------------------------------------------
+at m as part of the aed 1 system this system 
+accepts as input description of the multicharacter 
+of the system is a lexical processor which reads a string 
+the practical application of the THEORY of 
+
+
+
+CACM-2470
+----------------------------------------------------
+questions of local and global environments and of 
+with the use of the paradoxical combinator y the 
+as a data item and how imperative statements 
+structuring and uniting it is also demonstrated 
+
+
+
+CACM-1453
+----------------------------------------------------
+a hand calculation result of the application of the algorithm 
+the use of the kleene REGULAR expression notation 
+results of the machine program which does not 
+elimination algorithm of gorn similar to gaussian elimination 
+
+
+

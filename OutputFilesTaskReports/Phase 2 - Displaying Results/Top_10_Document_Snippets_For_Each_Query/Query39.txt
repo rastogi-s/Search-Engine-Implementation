@@ -1,0 +1,90 @@
+CACM-2651
+----------------------------------------------------
+and very flexible DATA TYPE behavior in a context that 
+PROGRAMMER DEFINED DATA TYPES DATA TYPES and generic 
+treatment of DATA TYPES includes provision for 
+set of DATA TYPES and associated operations in a manner 
+
+
+
+CACM-2940
+----------------------------------------------------
+the properties of the generators for such iterations 
+and the control structure of the LANGUAGE itself a 
+to be expressed in the form of proof rules are developed 
+means of showing that a generator will terminate is also provided 
+
+
+
+CACM-2470
+----------------------------------------------------
+questions of local and global environments and of 
+with the use of the paradoxical combinator y the 
+as a DATA item and how imperative statements 
+structuring and uniting it is also demonstrated 
+
+
+
+CACM-2931
+----------------------------------------------------
+a portion of the field and there has been perhaps too 
+the DEFINITION of the precise meaning of a PROGRAM 
+in the efficiency of decision methods have become available 
+so far the theories of automata and of nets though 
+
+
+
+CACM-3105
+----------------------------------------------------
+expression of access constraints on shared DATA 
+to objects that are components of larger objects 
+LANGUAGE but is particularly suitable for extending 
+access constraints can apply both to simple objects and 
+
+
+
+CACM-2957
+----------------------------------------------------
+cacm june 1977 
+distinct from relations in third normal form it 
+aggregation is in troduced as an abstraction 
+a hierarchy on n ary relations to main tain well definedness 
+
+
+
+CACM-3103
+----------------------------------------------------
+is discussed this process is discussed in detail for 
+an example PROGRAM general issues in DATA structure 
+proved to be very helpful in constructing and 
+thus the programs produced using ABSTRACT TYPES were 
+
+
+
+CACM-2265
+----------------------------------------------------
+of the PROGRAM is resolved by reducing its corresponding 
+within a decidable subset of the lambda calculus which 
+problems faced for any notion of TYPE checking 
+of the TYPE wise correctness or incorrectness 
+
+
+
+CACM-2254
+----------------------------------------------------
+detail to be of value in the design of other array LANGUAGES 
+which are used to derive and maintain the array control 
+LANGUAGE design array control blocks partition control blocks 
+the value of partitioning for array LANGUAGES 
+
+
+
+CACM-1861
+----------------------------------------------------
+mad DEFINITIONS OPERATORS macros higher level LANGUAGE 
+galler b a 
+higher level LANGUAGES is described users of the 
+one of the first DEFINITION facilities for 
+
+
+

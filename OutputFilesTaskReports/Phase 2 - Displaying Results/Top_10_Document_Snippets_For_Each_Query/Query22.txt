@@ -1,0 +1,90 @@
+CACM-2473
+----------------------------------------------------
+ca730713 jb january 23 1978 11 14 am 
+cacm july 1973 
+macleod i d g 
+HIDDEN LINE plot SURFACE plot 
+
+
+
+CACM-2692
+----------------------------------------------------
+capable of clipping the polygon against a single boundary 
+dimensions removing the parts of the polygon which 
+that a new vertex may be required at a corner of the 
+a new family of clipping ALGORITHMS is described 
+
+
+
+CACM-2384
+----------------------------------------------------
+ca720207 jb january 31 1978 4 12 pm 
+HIDDEN LINE plot SURFACE plot 
+4 9 
+cacm february 1972 
+
+
+
+CACM-2913
+----------------------------------------------------
+to more effective methods this paper explains 
+crow f c 
+the observed defects in terms of the aliasing phenomenon 
+the resolution or defocusing the display can 
+
+
+
+CACM-2441
+----------------------------------------------------
+ca730914 jb january 23 1978 8 36 am 
+cacm september 1973 
+HIDDEN LINE plotting program ALGORITHM r420 
+williamson h 
+
+
+
+CACM-2637
+----------------------------------------------------
+cacm june 1974 
+HIDDEN LINE plotting program ALGORITHM r420 
+ca740609 jb january 17 1978 2 59 pm 
+ellis t m r 
+
+
+
+CACM-2564
+----------------------------------------------------
+cacm december 1974 
+HIDDEN LINE plotting program ALGORITHM r420 
+ca741210 jb january 13 1978 3 45 pm 
+ellis t m r 
+
+
+
+CACM-2638
+----------------------------------------------------
+cacm june 1974 
+ca740608 jb january 17 1978 3 00 pm 
+HIDDEN LINE plotting program ALGORITHM r420 
+gaither b 
+
+
+
+CACM-2674
+----------------------------------------------------
+which extends the capabilities of this organization 
+COMPUTER results obtained from the implementations show 
+that the noninteractive ALGORITHMS can significantly 
+raster display the interactive ALGORITHM can improve 
+
+
+
+CACM-1741
+----------------------------------------------------
+COMPUTER display COMPUTER GRAPHICS COMPUTER raster 
+of the point on the screen the inverse of 
+the coordinates of the point on the screen the 
+a multiconsole COMPUTER display system has 
+
+
+

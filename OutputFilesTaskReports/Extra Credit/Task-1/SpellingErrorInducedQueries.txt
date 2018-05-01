@@ -1,0 +1,68 @@
+##########################################################################################
+############################# Spelling Error Induced Queries #############################
+##########################################################################################
+
+Q1 --> what altirces exist whcih deal with tss time sianhrg syestm an oitnpraeg syestm for ibm cpmuortes
+Q2 --> i am iteneestrd in arclteis werittn eihetr by pivere or udo pooch pivere b pooch u
+Q3 --> ineirdttamee languages used in ctsuorcntoin of ml-ueattgertid compilers tcoll
+Q4 --> im itenesretd in mihsceanms for cmatnucniimog between dionjist pescorses pbosisly but not esivlcxeuly in a dsuibtrietd enremoinnvt i would rather see dniresictpos of cetolmpe mihsceanms with or without imepnoletmnitas as opposed to traihtoeecl work on the atrscbat problem remote purceorde calls and mgsssnsa-eipaeg are empxales of my ittersens
+Q5 --> id like papers on design and imitotpemlaenn of etiindg ienetcfars weinaogwdr-mnas command ietrtrneerps etc the essniatel issues are human itanfcere design with views on ipvertoenmms to user efcicfeiny efeefinsvtecs and sitcaastiofn
+Q6 --> ietetnresd in articles on rbitcoos motion pnilnnag plcaulrritay the gemeoirtc and camarbtnioiol aspects we are not ietetnresd in the daynimcs of arm motion
+Q7 --> i am isrteeetnd in drbetuitsid artligmohs cneornucrt programs in which processes conuicmmate and syhonrcinze by using message passing areas of ptalriacur interest include ftcroaeua-nllte and tnucheqies for unindterdansg the ceonestrcrs of these artligmohs
+Q8 --> asidrndesg schemes for reorcsues in networks rcruesoe asidrndesg in network oaiernptg systems
+Q9 --> stiucery cdniaotioresns in local networks network oriatnepg systems and dtrtiuebsid systems
+Q10 --> parallel languages languages for parallel cputtamooin
+Q11 --> setl very high leevl laenagugs
+Q12 --> portable opiartneg systems
+Q13 --> code otaiomipztin for space eiecfcfniy
+Q14 --> find all dcsnssiiuos of optimal ieopmtnamiltnes of sort algorithms for database mgnaamneet anoiappilcts
+Q15 --> find all dssuicoisns of hioonrtzal mcocirode opitizimaotn with special ehpisams on opitizimaotn of loops and global opitizimaotn
+Q16 --> find all docrpiinests of file hldniang in opeatinrg smsyets based on miluplte peocessrs and message passing
+Q17 --> oipimtaizotn of iradminettee and machine code
+Q18 --> languages and compilers for parallel perocsross elepsilcay highly honriazotl mooecrcdid machines code ciomacpton
+Q19 --> parallel algorithms
+Q20 --> graph theoretic artolhmgis aialpplcbe to sparse matrices
+Q21 --> cptoaaotuminl complexity inbtttliaaciry calesltc-ospme reductions algorithms and efficiency
+Q22 --> i am iereensttd in hlien-dndie and hfrdiaunsde-ce atroglmihs for celyrdins toroids spheres and cones this is a rather seizpecilad topic in cotmpuer ghaicprs
+Q23 --> dustetibrid computing sueuttrcrs and algorithms
+Q24 --> applied sttisacohc processes
+Q25 --> prfmncraeoe eaitulaovn and modelling of computer systems
+Q26 --> cncnocreruy control mnimcahses in operating systems
+Q27 --> memory mnaneeagmt aspects of oepniratg systems
+Q28 --> any initraomofn on packet radio nwkteros of praltucair iestnert are ailtgmrhos for packet ritonug and for dealing with changes in ntewrok topghpaory i am not isteetrend in the hwadrare used in the ntewrok
+Q29 --> num-hotbteirreec arolmhitgs epaeillcsy involving prime number series sieves and chinese ridmeenar theorem
+Q30 --> ateirlcs on text fitaormtng sstyems inniudclg what you see is what you get sstyems expamles tofnrf scribe bravo
+Q31 --> id like to find alietcrs dnsicirbeg the use of sgliaunr value dspieomoiotcn in digital image posersincg altcpipnoais idlucne finidng aoppiimxnrtoas to the onriagil image and roesrtnig images that are scuejbt to noise an article on the scuejbt is h andrews and c psettoarn outer prdouct eaixnponss and their uses in digital image posersincg airmcean mmtitahceaal andrews h psettoarn c
+Q32 --> id like to find atlecirs dinebirscg graph atmghilors that are based on the euagenvlie dciteooosimpn or sgnaliur value dciteooosimpn of the ajacecny matrix for the graph im epelilsacy isettenred in any huireistc atmghilors for graph clionorg and graph iohsoisrpmm using this mtoehd
+Q33 --> acilrtes about the sitvseitiny of the eilgunveae detmpiiocoosn of real mrcateis in piuarcatlr zenor-oe mrcateis im eslacpiley iseentretd in the sptaoreian of epsicagnees coernodsrpnig to dcisintt engevuleais acilrtes on the subject c davis and w kahn the raototin of eocernevgtis by a potmtaiuren siam j nmriaeucl analysis vol 7 no 1 1970 g stewart error bounds for axiaomrptpe ivrainant supebscas of closed linear otaerorps siam j nmriaeucl analysis vol 8 no 4 1971 davis c kahn w stewart g
+Q34 --> ceturlrny isenettred in ilitsaoon of root of pnmiyoaoll there is an old more recent miaaterl heenidl l
+Q35 --> psiriitbbaolc algthroims ellpsceaiy those dealing with abilaregc and syoilmbc miantoauipln some examples rabiin psiriitbbaolc aitgrolhm on finite field siam waztch psiriitbbaolc testing of pomyilonal itedieitns siam rabinm
+Q36 --> fast ahlgirtom for cxntofert-ee language ritoingcoen or parsing
+Q37 --> arliects drniseicbg the rtlsoeiahnip btweeen data types and ccucnenrroy eg what is the type of a prcoses when is a sozcnyrtniioahn aeptmtt btweeen two pcoeersss type cecrort in a mpniea-esssgsag stsyem is there any notion of the types of maes-gs-eise any way to check that the sender of the msgseae and the rievceer are both tnrteiag the bit stream as some puarictlar type
+Q38 --> waht is the type of a muodle i dont want the eitrne leruittrae on abrtcast data tpeys here but im not sure how to pahsre this to aviod it im insrteeted in qutsioens abuot how one can chcek that a muodle mcaeths ctntxoes in wichh it is used
+Q39 --> what does type cplittmiibaoy mean in lnaeguags that allow pomrgmaerr dfneeid types you might want to rsceitrt this to etenixbsle lnaeguags that allow dnetiofiin of atacbrst data types or p-emlegrapsruiorpmd dnneoifitis of oaerports like
+Q40 --> list all arclites dnlaieg with data tepys in the flwonloig lnguaegas that are reenrfeecd feurlnetqy in ppreas on the above lnguaegas eg catch any lnguaegas with irsettinneg type streurctus that i might have misesd
+Q41 --> theory of diitseubtrd systems and dabsataes sucotibps of special interest include riiellibaty and faletltuar-cnoe in diitseubtrd systems attimociy diitseubtrd tnaciansotrs strooczinhaniyn amthliorgs rcruosee alolatocin lower bounds and models for ashnrcuoynos parallel systems also theory of cnimonmaticug psecorses and polctroos p box 2158 yale station new haven conn 06520
+Q42 --> computer pmrcnoeafre eaotuvlian teeunhicqs using pattern rtiooncgein and clustering la 70803
+Q43 --> analysis and pertpoecin of shape by humans and ceumrptos shape dtinirsecops shape rgocinitoen by computer tionw-maieodsnl shapes measures of cutlciriary shape matching
+Q44 --> texture analysis by computer deigztiid texture analysis texture seiysnhts poprteecin of texture
+Q45 --> the use of oiraeptnos rceraesh models to optimize inomirotafn system permnofarce this includes fine tuning deioinscs such as secrdonay index seicleton file ritoiraazgeonn and dttriseibud dteasaabs
+Q46 --> the apacioltipn of fuzzy subset theory to cuilnertsg and imiaonoftrn rieeavtrl problems this includes pfermroance eitlavuoan and automatic indexing cntenioadrisos
+Q47 --> the use of bieyasan dicoesin models to omiipzte itoimofnarn reevartil system pafmcrrnoee this iducenls spiotpng rules to dmenrteie when a user should cease snnancig the output of a reevartil search
+Q48 --> the use of computer science plpeiicrns eg data scutrtreus nreiamcul methods in ginentearg oziaptoitimn eg linear parmognimrg atmolhrigs this includes issues of the khachian russian eloildsapil atloihgrm and cleoxpimty of such atmolhrigs
+Q49 --> the role of imoorafnitn rrteieval in kdgwenole based stsymes ie expert stsymes
+Q50 --> parallel psorroecss in irmanfooitn retrieval
+Q51 --> parallel psoersorcs and paging aorgimtlhs
+Q52 --> modelling and sluaoiimtn in arcuitaurgll ecosystems
+Q53 --> mcamhaettial itdicnoun group theory integers modulo m pbliarbioty binomial ceotefcniifs binomial theorem hsoommrpiohm morphism ttiatvinrisy roilteans relation matrix sryuasce uirnitsvey 313 link hall sryuasce n 13210
+Q54 --> smenaicts of pirramngmog laguaegns including abstract spacfeniocitis of data types daoanineottl smenaicts and proofs of coerestcnrs hoare a dijkstra e uirsnteviy of mhcttssuaeass amherst ma 01003
+Q55 --> aiyntnhg dealing with star height of reaulgr laegnguas or reaulgr esropeinsxs or reaulgr events
+Q56 --> articles ritleoan the aegiralbc theory of sgriumopes and monoids to the study of aoamttua and regular lgagenaus
+Q57 --> atcarbtss of alritecs j bakucs can pmgiarmrong be leebiatrd from the von nemuann slyte a fninutoacl slyte and its agblrea of prgoarms cacm 21 re millo r litopn a prelis ltteer to acm forum cacm 22 1979 6-23690 bakucs j de millo r litopn r prelis a
+Q58 --> aiormhltgs or staisttacil pkaagces for anova rrseoigesn using least squares or genrzaeleid linear models system design cbiiipealats staisttacil formula are of ieentrst sdtetuns t test wcoxilon and sign tests mrlavuittiae and unvtaaiire cteonpnoms can be icundled
+Q59 --> diaoinctry csnitcoourtn and asenisccg methods for fast reatevril of words or lexical items or mlhloopcrgoliay related ioimrtfaonn hashing or iinnxedg methods are usually applied to english slpeling or natural lnugagae plmbroes
+Q60 --> hdarrwae and sftawore rilteang to dtasaabe mgneeaamnt systems dtasaabe paecgkas back end crmteuops special aicvsoistae hdarrwae with mmretrpicouocs atecahtd to disk heads or things like rap rieoaalntl or network codasyl or heaahiicrrcl models systems like system r ims adabas total etc
+Q61 --> ifaonmroitn rteeviral atelircs by gerard salton or others about cutrinlseg bhgilaoipribc cnpuolig use of cttinaios or cncai-itotos the vector space model boolean search motdehs using ievntred files fdaecbek etc salton g
+Q62 --> results rnleiatg parleall cxtlompiey theory both for prams and uniform ctiuicrs
+Q63 --> algorithms for parallel ciotoumtpan and especially cnoaomprsis between parallel and stienuaqel algorithms
+Q64 --> lsit all acertils on el1 and ecl el1 may be geivn as el1 i dnot rmeeebmr how they did it

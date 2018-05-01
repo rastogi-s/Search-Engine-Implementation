@@ -1,0 +1,90 @@
+CACM-2931
+----------------------------------------------------
+a portion of the field and there has been perhaps too 
+the definition of the precise meaning of a program 
+in the efficiency of decision methods have become available 
+so far the theories of automata and of nets though 
+
+
+
+CACM-3128
+----------------------------------------------------
+to protection MECHANISMS in the system is explained in particular 
+systems the MECHANISM is defined formally and then several 
+EXAMPLES of its use are given the relationship of the MECHANISM 
+exclusion to protect manipulations of shared variables that control 
+
+
+
+CACM-2342
+----------------------------------------------------
+of the existence of certain sequences a mechanical 
+to any of the interference properties it is shown 
+and the associated subproblems are formulated 
+the formation of partial rules and the calculation of 
+
+
+
+CACM-3043
+----------------------------------------------------
+is proposed for real time applications controlled by 
+hansen p 
+and scheduling sorting arrays coroutines classes 
+regions programming languages PROCESS communication 
+
+
+
+CACM-1135
+----------------------------------------------------
+a PROCESS e g changes affecting only one of the output 
+is identified as characteristic of the class 
+express only information characteristic of the particular 
+the structural analysis of the class of PROCESSES to be represented 
+
+
+
+CACM-2851
+----------------------------------------------------
+enumeration of the set of all possible control states 
+a special case of the assertions method which 
+methods are special cases of the induction principle 
+yields an extension to the deadlock PROBLEM 
+
+
+
+CACM-2519
+----------------------------------------------------
+is examined the PROBLEM is analyzed in terms of 
+on the PROBLEM of COMMUNICATING complex information 
+devices the exhibition of the structure inherent in the 
+the nature of the difficulty involved in COMMUNICATING 
+
+
+
+CACM-2377
+----------------------------------------------------
+of references across ring boundaries is also 
+these rings of protection the MECHANISMS allow cross ring 
+associating concentric rings of decreasing access privilege 
+of PASSING and referencing arguments are the 
+
+
+
+CACM-2920
+----------------------------------------------------
+game interpretation of the deadlock avoidance PROBLEM 
+of the system when each PROCESS specifies its 
+system etc of the safe situations which 
+priori information about the PROCESSES resources operating 
+
+
+
+CACM-2060
+----------------------------------------------------
+characteristics 1 any value which is permitted in some context of the 
+a variety of programming EXAMPLES illustrates the generality of the language 
+principle of completeness and the reference concept 
+functions and labels are permissible results of functions and values 
+
+
+

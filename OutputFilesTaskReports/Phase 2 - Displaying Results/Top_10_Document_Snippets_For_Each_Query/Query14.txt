@@ -1,0 +1,90 @@
+CACM-2348
+----------------------------------------------------
+cacm may 1972 
+merge SORT ALGORITHM m1 ALGORITHM a426 
+5 31 
+ca720512 jb january 31 1978 9 33 am 
+
+
+
+CACM-2679
+----------------------------------------------------
+for six acm ALGORITHMS quicksort no 64 
+the evidence given here demonstrates that qsort no 
+no 245 quickersort no 271 and qsort no 
+shellsort no 201 stringsort no 207 treesort3 
+
+
+
+CACM-0856
+----------------------------------------------------
+second defines the general solution the third part 
+using random access drum memory the SORT program 
+describes the internal SORT merge technique 
+first part presents the operating environment the 
+
+
+
+CACM-1724
+----------------------------------------------------
+is described the design is a generalization of the partial 
+arbitrary range of key and number of work files 
+pass column SORT by ashenhurst and the am 
+a generalized partial pass block SORT 
+
+
+
+CACM-3164
+----------------------------------------------------
+a progressive acyclic digraph pad ALGORITHM accepts are requests and 
+where n is the number of nodes and r is the expected number 
+of actions two pad ALGORITHMS are presented one uses a simple 
+path matrix representation and the other uses a list with an 
+
+
+
+CACM-3075
+----------------------------------------------------
+location 
+parallel processing sorting ALGORITHMS bucket SORT 
+n using n 1 1 k processors for k an arbitrary 
+integer the model of computation for this procedure 
+
+
+
+CACM-2716
+----------------------------------------------------
+optimizing the performance of a relational algebra DATABASE interface 
+refines the high level query specification supplied by 
+a methodology for composing them to optimize the 
+the user a relational algebra interface called 
+
+
+
+CACM-0677
+----------------------------------------------------
+it is shown that the strings produced by an 
+first internal SORT phase of a merge SORT onto tapes 
+ca631115 jb march 13 1978 3 31 pm 
+which have appeared previously in the literature a 
+
+
+
+CACM-0860
+----------------------------------------------------
+systems having from four to ten tape drives the basis 
+for the comparison is the total reading and writing 
+a comparison between the oscillating and polyphase 
+a comparison between the polyphase and oscillating SORT techniques 
+
+
+
+CACM-0861
+----------------------------------------------------
+merge SORT provided that the presort has the 
+techniques may be used in conjunction with the polyphase 
+strings and distributing the strings on the various 
+tapes as required by the polyphase merge 
+
+
+

@@ -1,0 +1,90 @@
+CACM-2699
+----------------------------------------------------
+automatic data structure choice in a LANGUAGE of very HIGH LEVEL 
+SETL is a SET theoretically oriented LANGUAGE 
+of very HIGH LEVEL whose repertoire of semantic 
+LANGUAGE am 
+
+
+
+CACM-2906
+----------------------------------------------------
+forms one for describing the business organization 
+problems the concepts in bdl mimic those 
+wladawsky i 
+sublanguages or components one for defining the business 
+
+
+
+CACM-2717
+----------------------------------------------------
+utility program programming LANGUAGES nonprocedural LANGUAGES 
+and thus makes data translation a much simpler task 
+3 50 3 75 4 29 4 4 4 9 
+convert has been chosen for conveying the purpose 
+
+
+
+CACM-3077
+----------------------------------------------------
+of programs 
+alternative functional style of programming is founded 
+laws general theorems of of the algebra give the detailed 
+to solve equations whose unknowns are programs 
+
+
+
+CACM-3150
+----------------------------------------------------
+algorithms towards the description of the properties of the packages 
+and objects with which we build this paper analyzes some of the 
+systems of the complexity called for by the tasks we attempt just 
+intricacies of a machine s order code higher LEVEL programming systems 
+
+
+
+CACM-2198
+----------------------------------------------------
+section also assesses the effect of the data base 
+systems after some discussion of the problems 
+of data independence and binding the four user levels 
+structures is mentioned followed by a discussion of the 
+
+
+
+CACM-1923
+----------------------------------------------------
+pseudofiles 
+cacm march 1969 
+rosin r f 
+HIGH LEVEL LANGUAGES command LANGUAGE 
+
+
+
+CACM-2316
+----------------------------------------------------
+on chronology indicates the happenings of the significant 
+some of the difficulties in writing such a history 
+are indicated a key part of the paper is a tree 
+this paper discusses both the history and future 
+
+
+
+CACM-3148
+----------------------------------------------------
+to distributed computing at the LEVEL of general purpose programming 
+is a problem of growing interest this paper describes an approach 
+LANGUAGES based on primitive notions of module message 
+of particular LANGUAGES and machines it appears to be useful for 
+
+
+
+CACM-2716
+----------------------------------------------------
+optimizing the performance of a relational algebra database interface 
+refines the HIGH LEVEL query specification supplied by 
+a methodology for composing them to optimize the 
+the user a relational algebra interface called 
+
+
+

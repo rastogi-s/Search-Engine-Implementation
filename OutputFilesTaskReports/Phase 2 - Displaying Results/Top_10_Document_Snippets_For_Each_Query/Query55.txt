@@ -1,0 +1,90 @@
+CACM-2650
+----------------------------------------------------
+spelling correction string best match problem correction 
+ca740503 jb january 17 1978 4 26 pm 
+finite state automata compiler error recovery 
+a method is presented for calculating a string 
+
+
+
+CACM-2921
+----------------------------------------------------
+and provides the same advantages informally 
+an rrp lr m k parser can determine the right end of 
+the right of the handle and the left end after the 
+m symbols to the left of the handle a mechanism for 
+
+
+
+CACM-1665
+----------------------------------------------------
+at m as part of the aed 1 system this system 
+accepts as input description of the multicharacter 
+of the system is a lexical processor which reads a string 
+the practical application of the theory of 
+
+
+
+CACM-1846
+----------------------------------------------------
+can be found in some of the latter cases it is shown 
+some of the problems of simulating discrete 
+of interconnected sequential processes briefly reviewed 
+a conventional digital computer are dealt with the 
+
+
+
+CACM-1739
+----------------------------------------------------
+then accepts the text to be searched as input and produces 
+a signal every time an embedded string in 
+ca680606 jb february 22 1978 4 18 pm 
+is discussed the compiler accepts a REGULAR 
+
+
+
+CACM-2051
+----------------------------------------------------
+as well as the limitations of the programs and illustrates its 
+of the total frequency in the data of each correspondence found 
+chosen cutoff point the article explains the usefulness 
+use with a small portion of hypothetical data 
+
+
+
+CACM-2112
+----------------------------------------------------
+directed compilers finite state automata 
+parsing meta compilers pushdown transducer syntax 
+recognition and parsing may be treated as special cases of the translation 
+4 10 4 12 4 20 5 22 
+
+
+
+CACM-1470
+----------------------------------------------------
+the data itself 2 by referring to the data by 
+a basic instruction of the programming LANGUAGE 
+influencing the choice of a form of component 
+the author discusses advantages disadvantages and factors 
+
+
+
+CACM-3056
+----------------------------------------------------
+approximate counts of large numbers the resulting 
+be expected to be 24 percent or less 95 percent of 
+or software used for the monitoring of experiments or processes 
+are used to keep track of as many as 130 000 EVENTS with 
+
+
+
+CACM-1993
+----------------------------------------------------
+ca700912 jb february 10 1978 10 03 am 
+cacm september 1970 
+coulomb wave functions wave functions REGULAR coulomb wave functions 
+5 12 
+
+
+

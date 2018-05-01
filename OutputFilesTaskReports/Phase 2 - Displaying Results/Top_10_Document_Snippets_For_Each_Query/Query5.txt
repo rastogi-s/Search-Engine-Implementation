@@ -1,0 +1,90 @@
+CACM-2035
+----------------------------------------------------
+developed for handling scroll EDITING filing and the layered system 
+facilities for text EDITING automatic filing and file maintenance and 
+tape algorithms to minimize the limitations of the small memory techniques 
+can be positioned anywhere by the USER and edited by simply adding 
+
+
+
+CACM-1829
+----------------------------------------------------
+of the monitor program and the HUMAN and program INTERFACES 
+g21 system and the graphics hardware are described 
+the graphic monitor is a resident auxiliary monitor 
+over the graphical system in response to commands 
+
+
+
+CACM-2003
+----------------------------------------------------
+description of the features of the two high level USER oriented 
+criteria provide sufficient generality to extend the use of the two languages 
+the DESIGN process are presented the main emphasis is given to the 
+the characteristics of an interactive software system intended to constitute 
+
+
+
+CACM-2820
+----------------------------------------------------
+corrected instead caps interacts with the student to help 
+the most remarkable feature of caps is its ability 
+him find the cause of his error most components 
+of the multilingual system over 500 students have used 
+
+
+
+CACM-2786
+----------------------------------------------------
+the size and font changes positioning line drawing and 
+simply this PAPER was typeset by the authors using the system described 
+typesetting experience indicates that the language 
+2 produces formula the syntax of the language is specified 
+
+
+
+CACM-1671
+----------------------------------------------------
+to the USER after each COMMAND is executed 
+linguist in the area of phonology are presented it 
+of applying rules to the data and to store 
+permits the USER to define on line sets of rules 
+
+
+
+CACM-2299
+----------------------------------------------------
+is described and its merits are illustrated by the ease 
+ca720803 jb january 30 1978 10 00 am 
+recursion state table storage allocation 
+processing macro language paging parameter substitution 
+
+
+
+CACM-1978
+----------------------------------------------------
+in this PAPER we discuss some of the advantages accrued by such 
+routines which are easy to use and also take advantage of the 
+insight and visual capabilities of the HUMAN problem solver several 
+the use of interactive graphics to solve numerical problems 
+
+
+
+CACM-2252
+----------------------------------------------------
+of the method are 1 the syntax of the language 
+does not occur until the last of a set of EDITING 
+commands has been received and 4 the parsing and 
+recompilation of entire routines the ESSENTIAL points 
+
+
+
+CACM-2873
+----------------------------------------------------
+interactive programming problem oriented languages 
+lg a language for analytic geometry 
+elements computes their parameters and displays the results 
+geometry is described together with some 
+
+
+

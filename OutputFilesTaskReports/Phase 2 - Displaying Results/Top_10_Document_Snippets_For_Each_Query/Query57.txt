@@ -1,0 +1,90 @@
+CACM-3077
+----------------------------------------------------
+of PROGRAMS 
+alternative FUNCTIONAL STYLE of PROGRAMMING is founded 
+laws general theorems of of the ALGEBRA give the detailed 
+to solve equations whose unknowns are PROGRAMS 
+
+
+
+CACM-2802
+----------------------------------------------------
+is characterized in terms of the selection and solution 
+ALGEBRA of functions these solutions can be given in 
+expressions permit the reformulation expansion 
+the new math of computer PROGRAMMING 
+
+
+
+CACM-3140
+----------------------------------------------------
+that ease of formal verification should not dominate PROGRAM 
+specification of significantly many real PROGRAMS make the form 
+same key role in the development of computer science and software 
+it is argued that formal verifications of 
+
+
+
+CACM-1705
+----------------------------------------------------
+because of the explicit call of the procedures decompose 
+the declared procedures is furnished in tabular form 
+of providing information on the form of output 
+by means of the primitives in symbol outsymbol 
+
+
+
+CACM-3138
+----------------------------------------------------
+imaginary unit 1 followed by least squares addition of the column 
+ssive application of the givens transformation in modified more efficient 
+algorithm are mentioned a simple means of constructing 
+an efficient and numerically stable method is presented for the problem of 
+
+
+
+CACM-3154
+----------------------------------------------------
+which specifies the knowledge to be used in solving problems 
+and a control component which determines the problem solving 
+algorithm can often by improving the control component without changing 
+the logic of the algorithm we argue that computer PROGRAMS would 
+
+
+
+CACM-2931
+----------------------------------------------------
+a portion of the field and there has been perhaps too 
+the definition of the precise meaning of a PROGRAM 
+in the efficiency of decision methods have become available 
+so far the theories of automata and of nets though 
+
+
+
+CACM-3103
+----------------------------------------------------
+is discussed this process is discussed in detail for 
+an example PROGRAM general issues in data structure 
+proved to be very helpful in constructing and 
+thus the PROGRAMS produced using ABSTRACT types were 
+
+
+
+CACM-2470
+----------------------------------------------------
+questions of local and global environments and of 
+with the use of the paradoxical combinator y the 
+as a data item and how imperative statements 
+structuring and uniting it is also demonstrated 
+
+
+
+CACM-1680
+----------------------------------------------------
+material without reprogramming illustrations of the various 
+iv g for the ibm system 360 model 40 and the ibm 2250 
+computer operations such as simulation PROGRAMMING and 
+and flexibility of computer assisted instruction 
+
+
+

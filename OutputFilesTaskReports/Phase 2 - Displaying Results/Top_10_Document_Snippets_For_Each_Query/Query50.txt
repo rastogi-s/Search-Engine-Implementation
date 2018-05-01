@@ -1,0 +1,90 @@
+CACM-2714
+----------------------------------------------------
+steps in the general case and km p k 1 2 m p log2 
+m in the special case where n km 
+PARALLEL processing PARALLEL merging PARALLEL binary insertion 
+b n m n and p p m PARALLEL PROCESSORS 
+
+
+
+CACM-3075
+----------------------------------------------------
+location 
+PARALLEL processing sorting algorithms bucket sort 
+n using n 1 1 k PROCESSORS for k an arbitrary 
+integer the model of computation for this procedure 
+
+
+
+CACM-3156
+----------------------------------------------------
+graph theory PARALLEL processing algorithms 
+sarwate d 
+we present a PARALLEL algorithm which uses n2 PROCESSORS to find the connected 
+cacm august 1979 
+
+
+
+CACM-1680
+----------------------------------------------------
+material without reprogramming illustrations of the various 
+iv g for the ibm system 360 model 40 and the ibm 2250 
+computer operations such as simulation programming and 
+and flexibility of computer assisted instruction 
+
+
+
+CACM-1811
+----------------------------------------------------
+program for the determination of the distribution 
+stability of the method of solution was also investigated 
+relatively independently of the other PROCESSORS communication 
+of this problem typical of a large class of important 
+
+
+
+CACM-1699
+----------------------------------------------------
+some of the mechanical and psychological limitations 
+of the research is that an INFORMATION RETRIEVAL system 
+of the tools which would be available to him were 
+systems laboratory the basic assumption 
+
+
+
+CACM-3134
+----------------------------------------------------
+moreover this method incorporates an improved modification of the inverted 
+d RETRIEVAL of INFORMATION are described this method is particularly 
+suitable for queries requesting a group of INFORMATION items 
+are described for a certain class of INFORMATION systems 
+
+
+
+CACM-1681
+----------------------------------------------------
+query expressed in the RETRIEVAL system s original symbolic 
+data base the moore school INFORMATION systems laboratory 
+of the transformations performed upon a sample 
+is sent to the system a macro flowchart of easy 
+
+
+
+CACM-2288
+----------------------------------------------------
+file organization the consecutive RETRIEVAL property 
+this paper conditions under which the consecutive RETRIEVAL 
+the consecutive RETRIEVAL property are proved in 
+the consecutive RETRIEVAL property is an important 
+
+
+
+CACM-1457
+----------------------------------------------------
+outlined in the light of the procedures requiring 
+and tree or list structures the main data 
+implementation advantages of these programming languages 
+the characteristics of various processing languages are 
+
+
+

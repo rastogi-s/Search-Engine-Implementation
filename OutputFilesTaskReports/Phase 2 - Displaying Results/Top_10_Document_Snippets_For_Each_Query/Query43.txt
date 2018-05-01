@@ -1,0 +1,90 @@
+CACM-2569
+----------------------------------------------------
+of accuracy and efficiency 1 when a is less than 
+be better than the efficiency of johnk s method 
+mix of procedures yields the best combination 
+COMPUTER generation of gamma random variates 
+
+
+
+CACM-2113
+----------------------------------------------------
+and the state of single bits determines the operational flow of the 
+an area of the COMPUTER s central core storage in such a way 
+can be substantially reduced the DESCRIPTION makes frequent use 
+grammar provided it can be expressed by the functional classification 
+
+
+
+CACM-3046
+----------------------------------------------------
+proposed method is simpler than ahrens and dieter s 
+and the programming effort for the proposed 
+values of a and are superior to times obtained by 
+by fishman wallace and tadikamalla and is faster 
+
+
+
+CACM-2341
+----------------------------------------------------
+best thought of as a three DIMENSIONAL 
+and their operations are mainly used for composing 
+for nonnumerical work the concept of a block is largely 
+printable output a variety of graphical problems including 
+
+
+
+CACM-3098
+----------------------------------------------------
+method is much simpler than ahrens and dieter s method and is faster for a 8 
+method the proposed method is the same as 
+effort for this method are similar to those of fishman s 
+fishman s method for 1 a 2 and is faster than fishman s 
+
+
+
+CACM-3125
+----------------------------------------------------
+to move each expression directly to the entrance of the outermost 
+information or restrictions on the SHAPE of the program graph 
+linear with the size of the program and that it leads 
+the elimination of redundant computations and the moving of invariant 
+
+
+
+CACM-2771
+----------------------------------------------------
+braid i c 
+synthesis three DIMENSIONAL modeling 
+perform addition are described for practical designers 
+of operations suffice to build up complex solids bounded by many faces 
+
+
+
+CACM-2847
+----------------------------------------------------
+sampling from the gamma distribution on a COMPUTER 
+wallace s recently suggested method for large SHAPE parameter 
+this paper describes a method of generating 
+method suggested here uses the rejection technique 
+
+
+
+CACM-2829
+----------------------------------------------------
+of regions of the pattern definition function the SHAPE 
+permitting the simulation of the mirror reflections 
+onto the surface the intensity of the pattern at each 
+algorithm allows accurate computation of 
+
+
+
+CACM-1726
+----------------------------------------------------
+the segmentation of printed text the possibility of 
+error rates of the order of 0 1 percent are obtained in 
+time sharing the scanner interactive MAN machine 
+methods for converting unstructured printed 
+
+
+

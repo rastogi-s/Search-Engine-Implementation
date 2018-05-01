@@ -1,0 +1,90 @@
+CACM-3032
+----------------------------------------------------
+this delivery through a store and forward PACKET switching 
+than that required for the known alternatives 
+nodes of a NETWORK ALGORITHMS for accomplishing 
+cacm december 1978 
+
+
+
+CACM-2949
+----------------------------------------------------
+on such a topology INFORMATION scheme is that 
+to update this INFORMATION one of the major constrain ts 
+a correctness proof of a topology INFORMATION 
+NETWORK 
+
+
+
+CACM-2890
+----------------------------------------------------
+the NETWORK the FORM of the optimality conditions suggests 
+that a modification of the adaptive ALGORITHM 
+ROUTING ALGORITHMS adaptive ROUTING quadratic ROUTING 
+by an adaptive ROUTING ALGORITHM these models show that 
+
+
+
+CACM-2892
+----------------------------------------------------
+proposed NETWORK protocol and compared with those for the current system 
+for various models of system use is studied 
+the source of this over head is separated into various 
+the FORM extent and effect of the communication line 
+
+
+
+CACM-1928
+----------------------------------------------------
+of serial and simultaneous activities the passage of 
+as the event queue grows in length and a simulation 
+the elimination of manual processes in achieving 
+and asynchronous logic certain aspects 
+
+
+
+CACM-2776
+----------------------------------------------------
+included the arpa NET the california state college NETWORK 
+in the future 
+were identified the five major NETWORKS 
+NETWORK the michigan educational research INFORMATION triad 
+
+
+
+CACM-2046
+----------------------------------------------------
+of redundancy and consistency in the user s model 
+of changes in query update and report traffic and natural growth in the 
+data bank data base data structure data organization 
+of data is changed and even when some aspects of the external representation 
+
+
+
+CACM-1685
+----------------------------------------------------
+language designed for generating activity NETWORK from 
+gan a system for generating activity NETWORKS 
+on activity NETWORKS scheduling activity NETWORKS 
+NETWORK generator NETWORK assembler activity 
+
+
+
+CACM-3158
+----------------------------------------------------
+store confidential files in the central facility or transmit confidential 
+for his own security and need not rely on the security of 
+with one or more central facilities is proposed the method employs a 
+data to other users on the NETWORK 
+
+
+
+CACM-0441
+----------------------------------------------------
+an example of one such problem is pert the present 
+for many problems involving analysis of NETWORKS 
+a byproduct of procedures needed by westinghouse 
+hour of machine time the method was developed as 
+
+
+

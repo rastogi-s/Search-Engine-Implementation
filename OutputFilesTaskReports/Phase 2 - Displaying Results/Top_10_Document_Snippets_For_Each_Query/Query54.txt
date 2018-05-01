@@ -1,0 +1,90 @@
+CACM-2940
+----------------------------------------------------
+the properties of the generators for such iterations 
+and the control structure of the LANGUAGE itself a 
+to be expressed in the form of PROOF rules are developed 
+means of showing that a generator will terminate is also provided 
+
+
+
+CACM-2931
+----------------------------------------------------
+a portion of the field and there has been perhaps too 
+the definition of the precise meaning of a PROGRAM 
+in the efficiency of decision methods have become available 
+so far the theories of automata and of nets though 
+
+
+
+CACM-3031
+----------------------------------------------------
+the process of proving the CORRECTNESS of an implementation 
+thrust of the paper is twofold first it is shown how 
+a DATA abstraction can be naturally specified 
+formal SPECIFICATION of a DATA TYPE an example 
+
+
+
+CACM-3105
+----------------------------------------------------
+expression of access constraints on shared DATA 
+to objects that are components of larger objects 
+LANGUAGE but is particularly suitable for extending 
+access constraints can apply both to simple objects and 
+
+
+
+CACM-3103
+----------------------------------------------------
+is discussed this process is discussed in detail for 
+an example PROGRAM general issues in DATA structure 
+proved to be very helpful in constructing and 
+thus the programs produced using ABSTRACT TYPES were 
+
+
+
+CACM-2470
+----------------------------------------------------
+questions of local and global environments and of 
+with the use of the paradoxical combinator y the 
+as a DATA item and how imperative statements 
+structuring and uniting it is also demonstrated 
+
+
+
+CACM-2192
+----------------------------------------------------
+morris jr j h 
+cacm may 1971 
+another recursion induction principle 
+and thus applicable in PROOFS about interpreters 
+
+
+
+CACM-2958
+----------------------------------------------------
+in the development of software that is reliable 
+efficient and flexible this paper presents and discusses 
+for the SPECIFICATION of ABSTRACT DATA TYPES am 
+the application of an algebraic technique 
+
+
+
+CACM-2851
+----------------------------------------------------
+enumeration of the SET of all possible control states 
+a special case of the assertions method which 
+methods are special cases of the induction principle 
+yields an extension to the deadlock problem 
+
+
+
+CACM-2705
+----------------------------------------------------
+some social aspects of PROGRAMMING are illuminated 
+avenues for further work of wide influence are 
+mathematics and natural LANGUAGES the split between 
+descriptive and prescriptive attitudes 
+
+
+

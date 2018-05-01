@@ -1,0 +1,90 @@
+CACM-1696
+----------------------------------------------------
+is presented applications in markov renewal programming 
+and compared with those of another recently 
+propose method 
+and transient states of a STOCHASTIC matrix 
+
+
+
+CACM-1410
+----------------------------------------------------
+requires the description of the STOCHASTIC 
+more satisfactory approximation to the data can 
+interarrival time distribution the data obtained 
+time sharing system tss the input PROCESS 
+
+
+
+CACM-2882
+----------------------------------------------------
+systems effectiveness of the methodology is demonstrated 
+the retrieval workload of alternative data 
+scale data retrieval systems has been scarce due 
+organization in data retrieval systems 
+
+
+
+CACM-1194
+----------------------------------------------------
+the history of the establishment of the acm repository 
+1 easy accessibility to the information files by users 
+the main catalog is used to describe the documents 
+to the acm repository consisted of 315 documents 
+
+
+
+CACM-1435
+----------------------------------------------------
+and 4 the many response problem 
+design of computer simulation experiments for industrial systems 
+of data analysis are considered multiple ranking procedures 
+of computer simulation experiments for industrial 
+
+
+
+CACM-2767
+----------------------------------------------------
+simulation system two of the algorithms are new one 
+the end order tree algorithm is shown to be an advantageous 
+in use with current simulation languages the most 
+immediate replacement for the algorithm 
+
+
+
+CACM-1892
+----------------------------------------------------
+parameters implications of the results to time shared 
+for a wide range of key environment descriptive 
+a burst of page demands at the beginning of any job 
+offers a base for understanding the relationship 
+
+
+
+CACM-1540
+----------------------------------------------------
+ca670906 jb february 27 1978 3 15 pm 
+results are given that compare it to a nonpreference assignment algorithm 
+an algorithm for class scheduling with section preference 
+busam v a 
+
+
+
+CACM-0268
+----------------------------------------------------
+ca611013 jb march 16 1978 12 48 pm 
+cohen l j 
+STOCHASTIC evaluation of a static storage allocation 
+cacm october 1961 
+
+
+
+CACM-1235
+----------------------------------------------------
+suggested by an analysis of the results 
+trials the accuracy of the coder was 91 to 93 with 
+about half of the word events in a corpus are identified 
+class or part of speech the program operates at relatively 
+
+
+

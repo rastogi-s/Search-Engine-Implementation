@@ -1,0 +1,90 @@
+CACM-3105
+----------------------------------------------------
+expression of access constraints on shared data 
+to objects that are components of larger objects 
+language but is particularly suitable for extending 
+access constraints can apply both to simple objects and 
+
+
+
+CACM-2840
+----------------------------------------------------
+under this model is to determine in a given situation 
+is argued the safety problem for protection SYSTEMS 
+configuration is safe in general and under surprisingly 
+a situation is safe various implications of this fact are discussed 
+
+
+
+CACM-2314
+----------------------------------------------------
+input and output of data would facilitate use of 
+are stressed as is the duality of data 
+facilities programmable CONTROL structures and sophisticated 
+programming languages interactive SYSTEMS CONTROL 
+
+
+
+CACM-2632
+----------------------------------------------------
+of any of the operations defined with respect to that 
+is realized through the introduction of a 
+for dealing with objects including the creation of new 
+type of object the MECHANISMS provide a coherent 
+
+
+
+CACM-3128
+----------------------------------------------------
+to protection MECHANISMS in the SYSTEM is explained in particular 
+SYSTEMS the MECHANISM is defined formally and then several 
+examples of its use are given the relationship of the MECHANISM 
+exclusion to protect manipulations of shared variables that CONTROL 
+
+
+
+CACM-2541
+----------------------------------------------------
+design of the language OPERATING SYSTEM 
+this paper explores the advantages of the concurrent 
+an overview of the ispl computer SYSTEM design 
+of hierarchical subsystems it also suggested an important 
+
+
+
+CACM-1677
+----------------------------------------------------
+for five years is described each logical entity in storage 
+during execution means of linkage between programs 
+storage allocation storage organization storage 
+storage organization in programming SYSTEMS 
+
+
+
+CACM-2939
+----------------------------------------------------
+in the programming process of these only the 
+means of programming examples the utility of the three 
+be written to use and implement abstractions the 
+CONTROL abstractions this paper provides an in troduction 
+
+
+
+CACM-1750
+----------------------------------------------------
+of the faster memory 
+generalization of such a design special emphasis is 
+an observation is made on the use of conventional slower 
+of the hardware arrangement and the software components 
+
+
+
+CACM-1747
+----------------------------------------------------
+the scope of the criteria the notion of an abstract 
+of the criteria concern the reading of 
+and the assignment of capability indexes 
+and asynchronous reproducibility of output these criteria 
+
+
+

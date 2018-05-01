@@ -1,0 +1,90 @@
+CACM-2452
+----------------------------------------------------
+an elusive subject and then presents a methodology a 
+the SYSTEM is a convenient tool to study file 
+affect file DATA BASE ORGANIZATION PERFORMANCE 
+MODEL and a programmed SYSTEM to estimate primarily 
+
+
+
+CACM-2765
+----------------------------------------------------
+as another large DATA BASE which itself 
+is stressed the inverted DATA BASE file ORGANIZATION 
+DATA BASE PERFORMANCE and measurement SECONDARY 
+the need to envision and architecture DATA BASE 
+
+
+
+CACM-1976
+----------------------------------------------------
+of SECONDARY INDEX values in buckets it is possible to retrieve 
+replace the use of the popular SECONDARY INDEX filing scheme 
+file ORGANIZATION SECONDARY INDEX files inverted files INFORMATION 
+degenerate case becomes the conventional SECONDARY INDEX filing 
+
+
+
+CACM-2816
+----------------------------------------------------
+the DATABASE will increase due to structural 
+a basic problem is to establish the proper tradeoff between 
+points numerical examples based on the characteristics 
+in most DATABASE organizations the cost of accessing 
+
+
+
+CACM-3002
+----------------------------------------------------
+a file SYSTEM is the reduction of storage and DATA 
+one of the main objectives in the design of 
+and the distribution of each DATA item s length are assumed 
+several requests access the file SYSTEM and each 
+
+
+
+CACM-2437
+----------------------------------------------------
+of PERFORMANCE of the various key to address 
+average PERFORMANCE of the transformation methods on 
+all this can be done analytically the approach 
+general PERFORMANCE analysis of key to address 
+
+
+
+CACM-2969
+----------------------------------------------------
+levin k d 
+one computer to another can also be gained from the 
+3 81 3 51 4 33 
+optimal program and DATA locations in computer networks 
+
+
+
+CACM-2991
+----------------------------------------------------
+to locate a record the combined effects of these techniques 
+improving the access time for random access files 
+reduce the effect of nonuniformity in file loading 
+keys are pre hashed before the address division 
+
+
+
+CACM-1194
+----------------------------------------------------
+the history of the establishment of the acm repository 
+1 easy accessibility to the INFORMATION files by users 
+the main catalog is used to describe the documents 
+to the acm repository consisted of 315 documents 
+
+
+
+CACM-1032
+----------------------------------------------------
+PERFORMANCE and the second is a self generating subset 
+the nonrelevant and penalizes the SYSTEM for the 
+of three major components a identification 
+for retrieving relevant documents and not retrieving 
+
+
+

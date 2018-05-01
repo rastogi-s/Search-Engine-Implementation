@@ -1,0 +1,90 @@
+CACM-3047
+----------------------------------------------------
+a number of IMAGE analysis tasks can benefit 
+the surface being imaged automatic navigation using visible 
+from registration of the IMAGE with a model of 
+as a function of surface gradient 
+
+
+
+CACM-2142
+----------------------------------------------------
+and varied number of fields the most important 
+points from the sums of the gray levels along straight 
+in such situations the picture is far from determined 
+there are situations in the natural sciences 
+
+
+
+CACM-2283
+----------------------------------------------------
+conjunction with the hexagonal array has features 
+hexagonal and triangular arrays the approach to the 
+which strike a balance between those of the other two arrays 
+points it is concluded that the algorithm operating in 
+
+
+
+CACM-3015
+----------------------------------------------------
+practical consequences for IMAGE reconstruction of the 
+an important version of the problem in medicine is 
+the sparsity of the resulting system typically 25 000 
+inequalities with fewer than 1 percent of the 
+
+
+
+CACM-2065
+----------------------------------------------------
+picture PROCESSING biomedical picture PROCESSING on line picture 
+PROCESSING semiautomatic picture PROCESSING semiautomatic 
+karyotyping karyotyping list PROCESSING picture PROCESSING 
+system is given with special emphasis on the man machine interaction this 
+
+
+
+CACM-3013
+----------------------------------------------------
+than the sum of the x and y second differences 
+operator which uses the distance between the center 
+is similar to the DIGITAL laplacian but uses the max rather 
+to one of the standard DIGITAL APPROXIMATIONS to the gradient 
+
+
+
+CACM-1686
+----------------------------------------------------
+suggested computer holograms have been made of three dimensional 
+APPLICATIONS display device photography physics 
+apertures for the IMAGE is discussed photographs 
+3 17 3 19 5 19 
+
+
+
+CACM-2421
+----------------------------------------------------
+display file the scan conversion algorithm described 
+the lines of the drawing in strips corresponding to 
+graphics scan conversion raster plotter 
+groups of scan lines a relatively small primary 
+
+
+
+CACM-2125
+----------------------------------------------------
+and the corresponding computing times are listed 
+the IMAGE are first obtained by a modified ledley algorithm in one 
+the weak bonds between variables some examples are presented 
+is then chosen as the approximating contour the determination of the minimal 
+
+
+
+CACM-1891
+----------------------------------------------------
+the projected video IMAGES of an object 
+separation is achieved by viewing the IMAGE 
+rotating memory the two output signals are connected 
+thus creating a superimposed IMAGE on the screen optical 
+
+
+

@@ -1,0 +1,90 @@
+CACM-2711
+----------------------------------------------------
+from the others as possible in these circumstances 
+the usefulness of the model 
+as a function of the density of the object space 
+the value of an INDEXING system may be expressible 
+
+
+
+CACM-2990
+----------------------------------------------------
+proofs of the effectiveness with respect to a 
+ways much of the published EVALUATION work is based 
+to the frequency of occurrence of the term in the 
+the PERFORMANCE of INFORMATION RETRIEVAL systems 
+
+
+
+CACM-1032
+----------------------------------------------------
+PERFORMANCE and the second is a self generating SUBSET 
+the nonrelevant and penalizes the system for the 
+of three major components a identification 
+for retrieving relevant documents and not retrieving 
+
+
+
+CACM-2631
+----------------------------------------------------
+more even than those of word types the members 
+RETRIEVAL namely the maintenance and use of large 
+dictionaries the greater part of which is used only 
+using direct access computer files of bibliographic 
+
+
+
+CACM-1457
+----------------------------------------------------
+outlined in the light of the procedures requiring 
+and tree or list structures the main data 
+implementation advantages of these programming languages 
+the characteristics of various processing languages are 
+
+
+
+CACM-2451
+----------------------------------------------------
+such trees to serve a well specified APPLICATION the 
+PERFORMANCE and that of an intuitively attractive 
+techniques on the other hand it is potentially 
+the process of locating the desired responses 
+
+
+
+CACM-0329
+----------------------------------------------------
+published as of the date of writing conclusions are 
+report is a summary of AUTOMATIC analysis studies 
+and linguistic techniques for the solution of PROBLEMS of AUTOMATIC analysis 
+as is its APPLICATION to PROBLEMS of AUTOMATIC 
+
+
+
+CACM-2542
+----------------------------------------------------
+this system is based on a simple high level language 
+which is used to describe the evolving system 
+feedback the PROBLEMS which adversely affect PERFORMANCE 
+the reasons for this failure are explored and a new methodology 
+
+
+
+CACM-2217
+----------------------------------------------------
+of the learning program were also tested 
+for use in the AUTOMATIC learning of better 
+that the learning program could simultaneously improve 
+program results showed that the learning produced dramatic 
+
+
+
+CACM-2882
+----------------------------------------------------
+systems effectiveness of the methodology is demonstrated 
+the RETRIEVAL workload of alternative data 
+scale data RETRIEVAL systems has been scarce due 
+organization in data RETRIEVAL systems 
+
+
+

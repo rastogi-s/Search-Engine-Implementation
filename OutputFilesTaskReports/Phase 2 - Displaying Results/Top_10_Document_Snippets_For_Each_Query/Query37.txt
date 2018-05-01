@@ -1,0 +1,90 @@
+CACM-2265
+----------------------------------------------------
+of the program is resolved by reducing its corresponding 
+within a decidable subset of the lambda calculus which 
+problems faced for any NOTION of TYPE checking 
+of the TYPE wise correctness or incorrectness 
+
+
+
+CACM-2233
+----------------------------------------------------
+with the aid of an unsanitized version of the 
+simulated encoding by various schemes over to the 
+to match the letters of the clear text or MESSAGE 
+of the beale cyphers and various TYPES of simulations 
+
+
+
+CACM-3105
+----------------------------------------------------
+expression of access constraints on shared DATA 
+to objects that are components of larger objects 
+language but is particularly suitable for extending 
+access constraints can apply both to simple objects and 
+
+
+
+CACM-2931
+----------------------------------------------------
+a portion of the field and there has been perhaps too 
+the definition of the precise meaning of a program 
+in the efficiency of decision methods have become available 
+so far the theories of automata and of nets though 
+
+
+
+CACM-2470
+----------------------------------------------------
+questions of local and global environments and of 
+with the use of the paradoxical combinator y the 
+as a DATA item and how imperative statements 
+structuring and uniting it is also demonstrated 
+
+
+
+CACM-2632
+----------------------------------------------------
+of any of the operations defined with respect to that 
+is realized through the introduction of a 
+for dealing with objects including the creation of new 
+TYPE of object the mechanisms provide a coherent 
+
+
+
+CACM-2341
+----------------------------------------------------
+best thought of as a three dimensional 
+and their operations are mainly used for composing 
+for nonnumerical work the concept of a block is largely 
+printable output a variety of graphical problems including 
+
+
+
+CACM-1856
+----------------------------------------------------
+correctly relating text to the memory s prior content 
+combining these copies to represent the meaning of the 
+creates copies of the parts of its memory which have 
+been found to relate to the new text adapting and 
+
+
+
+CACM-1847
+----------------------------------------------------
+in the PROCESS is to take the top element v of the 
+graph a spanning tree is grown and the vertices examined 
+edges v z of the graph for which z has not yet 
+been examined if z is already in the tree a fundamental 
+
+
+
+CACM-2184
+----------------------------------------------------
+and a storable object of TYPE context manipulations 
+the two functions are discussed in terms of the 
+lambda calculus theory of programming 
+to which they overlap it is suggested that there 
+
+
+

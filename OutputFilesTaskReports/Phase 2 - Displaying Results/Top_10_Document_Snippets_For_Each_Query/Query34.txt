@@ -1,0 +1,90 @@
+CACM-1524
+----------------------------------------------------
+accept a number as an adequate approximation to the ROOT 
+when searching for the ROOT of a POLYNOMIAL 
+basis of calculated bounds for the roundoff error 
+which occurs in evaluating the POLYNOMIAL this stopping 
+
+
+
+CACM-2722
+----------------------------------------------------
+proven maximum running time of o n k t k 
+data structure can handle many types of queries 
+of searches o n log n search algorithms 
+search tree or k d tree where k is the dimensionality 
+
+
+
+CACM-1999
+----------------------------------------------------
+square ROOT newton raphson iteration optimal approximants 
+cacm september 1970 
+approximants is considered and some optimal POLYNOMIAL initial 
+on machine with slow or no division it is preferable to 
+
+
+
+CACM-1615
+----------------------------------------------------
+draw both ordinary and time lag ROOT locus diagrams 
+ca670313 jb february 28 1978 12 57 pm 
+diagrams 
+diagrams which had been impossible to obtain are drawn 
+
+
+
+CACM-1623
+----------------------------------------------------
+order to circumvent some of the shortcomings of the 
+is indicated the solution of the problem using formac 
+may be INTERESTED in the problem because it is stated 
+of INTEREST in areas other than circuit analysis 
+
+
+
+CACM-2808
+----------------------------------------------------
+the lemniscate constants and indeed some 
+interesting historical MATERIAL the acceleration 
+the lemniscate constants 
+of the methods used for actually computing them 
+
+
+
+CACM-2749
+----------------------------------------------------
+with an old one called the clock pulse method using 
+organization called the significant event method 
+as examples two automobile traffic models the 
+that the significant event method can be of value 
+
+
+
+CACM-0848
+----------------------------------------------------
+bemer r w 
+range symmetric about 10 1 will give examples of this 
+cacm june 1963 
+ca630601 jb march 14 1978 10 41 am 
+
+
+
+CACM-1763
+----------------------------------------------------
+ca680407 jb february 23 1978 10 27 am 
+cacm april 1968 
+equation roots cubic equation roots biquadratic 
+equation roots POLYNOMIAL zeros 
+
+
+
+CACM-2660
+----------------------------------------------------
+simmons g c 
+ca740410 jb february 1 1978 10 36 am 
+cacm april 1974 
+addendum to m l patrick paper 
+
+
+

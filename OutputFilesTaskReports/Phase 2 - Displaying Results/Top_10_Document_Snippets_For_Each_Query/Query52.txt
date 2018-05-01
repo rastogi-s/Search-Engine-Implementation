@@ -1,0 +1,90 @@
+CACM-2721
+----------------------------------------------------
+of the accuracy of the SIMULATION methods a SIMULATION 
+in addition the study demonstrates the usefulness of 
+in the columbia river was made based on approximations 
+response of the ECOSYSTEM to different conditions 
+
+
+
+CACM-1928
+----------------------------------------------------
+of serial and simultaneous activities the passage of 
+as the event queue grows in length and a SIMULATION 
+the elimination of manual processes in achieving 
+and asynchronous logic certain aspects 
+
+
+
+CACM-1366
+----------------------------------------------------
+and of some of the involved in comparing software packages 
+part is devoted to computer SIMULATION and SIMULATION 
+of six SIMULATION languages and packages simscript 
+languages and packages can be improved 
+
+
+
+CACM-2749
+----------------------------------------------------
+with an old one called the clock pulse method using 
+organization called the significant event method 
+as examples two automobile traffic models the 
+that the significant event method can be of value 
+
+
+
+CACM-2767
+----------------------------------------------------
+SIMULATION SYSTEM two of the algorithms are new one 
+the end order tree algorithm is shown to be an advantageous 
+in use with current SIMULATION languages the most 
+immediate replacement for the algorithm 
+
+
+
+CACM-1890
+----------------------------------------------------
+of cars in a block is determined only by the density of 
+cars in the block and this speed versus density 
+SIMULATION of traffic flows in a network 
+of traffic flows in a variety of situations some 
+
+
+
+CACM-3048
+----------------------------------------------------
+point unit further it appears that many of the sophisticated 
+of the cpu memory subsystem of the ibm 360 91 is 
+in the architecture of the ibm 360 91 are of little 
+data streams of the real SYSTEM SIMULATION of the 
+
+
+
+CACM-3070
+----------------------------------------------------
+the result and computational costs of the hybrid MODEL of 
+SYSTEM processors the accuracy and efficiency of the 
+this paper describes the structure and operation 
+of a hybrid SIMULATION MODEL in which both 
+
+
+
+CACM-2902
+----------------------------------------------------
+dynamic memory allocation in computer SIMULATION 
+SIMULATION memory management SIMULATION techniques 
+or memory ordered free lists generally performed 
+free space lists for each size of memory block used 
+
+
+
+CACM-1695
+----------------------------------------------------
+examinations of the gross characteristics of the data to 
+a neural network to analyze the output data produced 
+which enables a user to construct and specify 
+means for specification and modification of a network and 
+
+
+

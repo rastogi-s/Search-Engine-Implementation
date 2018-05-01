@@ -1,0 +1,90 @@
+CACM-1410
+----------------------------------------------------
+requires the description of the stochastic 
+more satisfactory approximation to the data can 
+interarrival TIME distribution the data obtained 
+TIME SHARING SYSTEM TSS the input process 
+
+
+
+CACM-1605
+----------------------------------------------------
+analysis of the experimental results provided strong 
+as a critique of the experimental design itself 
+of the mit compatible TIME SHARING SYSTEM ctss 
+was compared with that of the IBM ibsys batch processing 
+
+
+
+CACM-2319
+----------------------------------------------------
+an overview of the current and future positions 
+gaps still EXIST in out knowledge because of the 
+on the way we go about modularizing OPERATING 
+more common and necessary in the near future 
+
+
+
+CACM-1506
+----------------------------------------------------
+than clock driven the program segments called 
+the laconiq monitor TIME SHARING for online dialogues 
+SYSTEM user and a retrieval application the monitor 
+feature of the SYSTEM is that it is event driven rather 
+
+
+
+CACM-2054
+----------------------------------------------------
+resources required to accommodate several users at a TIME the results show 
+error rates for different experimental conditions as well as the machine 
+SYSTEM with a fortran like algebraic compiler as the object processor is 
+being provided as a sequence of spoken words and output to the user being 
+
+
+
+CACM-2380
+----------------------------------------------------
+SYSTEM structure although the implementation 
+2 44 4 32 4 39 4 42 
+tomlinson r s 
+tenex paging virtual machines TIME SHARING 
+
+
+
+CACM-1523
+----------------------------------------------------
+editing compilation and conversational execution 
+TIME was approximately six man years with the 
+or to simulate segmentation or paging implementation 
+is described the SYSTEM is general purpose and file based 
+
+
+
+CACM-1591
+----------------------------------------------------
+full resources of the OPERATING SYSTEM language processors 
+mode and programmer mode during the latter the 
+compilers library and user s programs 
+OPERATING SYSTEM to execute functions other than 
+
+
+
+CACM-2379
+----------------------------------------------------
+on complexity of software the SYSTEM is defined by 
+six concurrent users on a small COMPUTER the SYSTEM was 
+OPERATING systems SYSTEM design levels of abstraction 
+the design of the venus OPERATING SYSTEM 
+
+
+
+CACM-0585
+----------------------------------------------------
+is a description of the evolution of the programming 
+or emphasized some of the basic principles 
+the basic data reduction work load of the computing 
+model 1103 COMPUTER during the last five 
+
+
+

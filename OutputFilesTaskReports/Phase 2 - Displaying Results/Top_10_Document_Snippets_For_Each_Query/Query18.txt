@@ -1,0 +1,90 @@
+CACM-2714
+----------------------------------------------------
+steps in the general case and km p k 1 2 m p log2 
+m in the SPECIAL case where n km 
+PARALLEL processing PARALLEL merging PARALLEL binary insertion 
+b n m n and p p m PARALLEL PROCESSORS 
+
+
+
+CACM-3075
+----------------------------------------------------
+location 
+PARALLEL processing sorting algorithms bucket sort 
+n using n 1 1 k PROCESSORS for k an arbitrary 
+integer the model of computation for this procedure 
+
+
+
+CACM-2723
+----------------------------------------------------
+list operations and the other performing 
+allow the list PROCESSOR to run unimpeded while 
+complex cases involving several list PROCESSORS 
+lisp list processing free storage pointers 
+
+
+
+CACM-1811
+----------------------------------------------------
+program for the determination of the distribution 
+stability of the method of solution was also investigated 
+relatively independently of the other PROCESSORS communication 
+of this problem typical of a large class of important 
+
+
+
+CACM-2175
+----------------------------------------------------
+the ordering of the subexpressions in particular 
+subexpression ordering in the execution of arithmetic expressions 
+be postponed a procedure is given which combines this 
+subexpressions should be executed in order of decreasing 
+
+
+
+CACM-2570
+----------------------------------------------------
+dickson j r 
+which consists of a set of partially ordered tasks 
+times are random variables is presented 
+list scheduling optimization dynamic programming 
+
+
+
+CACM-3156
+----------------------------------------------------
+graph theory PARALLEL processing algorithms 
+sarwate d 
+we present a PARALLEL algorithm which uses n2 PROCESSORS to find the connected 
+cacm august 1979 
+
+
+
+CACM-0670
+----------------------------------------------------
+nonbank entities and particularly of the rendering of 
+some legal implications of the use of computers in the banking business 
+the introduction of computers in to the banking 
+to regulation by government agencies also pertinent 
+
+
+
+CACM-3059
+----------------------------------------------------
+and applied to the analysis of these problems 
+for systemtems in which the i o system is more 
+is developed by network decomposition the 
+utilized than the cpu 
+
+
+
+CACM-2433
+----------------------------------------------------
+a fortran COMPILER on the illiac iv an extended 
+structures suitable for exploiting illiac iv parallelism 
+control structures in illiac iv fortran 
+4 12 4 21 4 22 
+
+
+

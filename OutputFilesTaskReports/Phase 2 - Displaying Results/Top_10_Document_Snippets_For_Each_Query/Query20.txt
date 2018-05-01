@@ -1,0 +1,90 @@
+CACM-2695
+----------------------------------------------------
+only row and corresponding column permutations the 
+the absence of round off errors and improved computation time 
+in numerical linear algebra consider the class of SPARSE 
+can be permuted into tridiagonal form is given the 
+
+
+
+CACM-2986
+----------------------------------------------------
+compute linear precedence functions in o n 2 steps 
+grammar t canonical precedence relation 
+of precedence relations for a context free grammar can be 
+relation linear precedence function slr 
+
+
+
+CACM-2769
+----------------------------------------------------
+although it executes faster for SPARSE MATRICES 
+on most computers particularly in a paging environment 
+by a boolean matrix the ALGORITHM is similar to warshall s 
+warren h s jr 
+
+
+
+CACM-2368
+----------------------------------------------------
+connect cut or the player moving first is guaranteed 
+to know whether the computer is connect or cut 
+ALGORITHMS the two players in a shannon switching game 
+cases in fact the major routines never need 
+
+
+
+CACM-2484
+----------------------------------------------------
+element from the given set of objects the use of 
+storage is reduced to that of defining relations 
+natural for us to view the process of designing a data 
+the results presented may be valuable to 
+
+
+
+CACM-2490
+----------------------------------------------------
+vertices already on paths the start vertex can 
+graphs analysis of ALGORITHMS GRAPH manipulation 
+of a GRAPH into simple paths is iterative 
+efficient ALGORITHMS are presented for partitioning 
+
+
+
+CACM-2630
+----------------------------------------------------
+cacm june 1974 
+ca740616 jb january 17 1978 1 55 pm 
+the shortest path between every pair of vertices in a directed GRAPH 
+the k shortest paths between every pair of vertices 
+
+
+
+CACM-2780
+----------------------------------------------------
+ALGORITHM are given the dependency relationships 
+a recursive ALGORITHM for computing the inverse 
+are derived the computational costs are developed and some 
+in takahashi et AL is examined the formulas for the 
+
+
+
+CACM-3018
+----------------------------------------------------
+the number of complete subgraphs a relationship 
+this optimization problem is here shown to be equivalent 
+between this edge clique cover problem and the GRAPH coloring 
+edge clique cover problem are shown to be np complete 
+
+
+
+CACM-2883
+----------------------------------------------------
+and contours in noisy pictures the properties 
+the minimization problem and a dynamic programming approach 
+are discussed showing that the GRAPH search 
+an application of heuristic search methods to edge and contour detection 
+
+
+

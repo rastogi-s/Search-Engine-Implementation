@@ -1,0 +1,90 @@
+CACM-2542
+----------------------------------------------------
+this system is based on a simple high level language 
+which is used to describe the evolving system 
+feedback the problems which adversely affect PERFORMANCE 
+the reasons for this failure are explored and a new methodology 
+
+
+
+CACM-1653
+----------------------------------------------------
+mixes kernels simulators and other tools is discussed 
+problems are examined throughput turnaround and 
+EVALUATION is reviewed and EVALUATION goals and 
+system PERFORMANCE EVALUATION survey and appraisal 
+
+
+
+CACM-3048
+----------------------------------------------------
+point unit further it appears that many of the sophisticated 
+of the cpu memory subsystem of the ibm 360 91 is 
+in the architecture of the ibm 360 91 are of little 
+data streams of the real system simulation of the 
+
+
+
+CACM-2319
+----------------------------------------------------
+an overview of the current and future positions 
+gaps still exist in out knowledge because of the 
+on the way we go about modularizing operating 
+more common and necessary in the near future 
+
+
+
+CACM-2318
+----------------------------------------------------
+systems and establishes circumstances under 
+models constitute a useful means of investigating 
+ca720710 jb january 30 1978 2 03 pm 
+which the use of a model is appropriate 
+
+
+
+CACM-1827
+----------------------------------------------------
+operating system and user program behavior 
+the dcf events in the system are identified and recorded 
+facility and of applications in which it has been 
+system EVALUATION software monitor software 
+
+
+
+CACM-1908
+----------------------------------------------------
+cost for usage of the two COMPUTER systems however 
+this study is the first known attempt to evaluate 
+a PERFORMANCE level equal to that of the batch 
+attitudes made time sharing the more favorable 
+
+
+
+CACM-2344
+----------------------------------------------------
+the size of the store and the speed of the cpu a comparison 
+is made between the results of the simulation 
+in the measure of system PERFORMANCE can be obtained by 
+auxiliary store is used to study the variation of system 
+
+
+
+CACM-1805
+----------------------------------------------------
+that which it would enjoy in the absence of the other 
+situations the algorithm is sensitive to most of the 
+nonquantitative or topological features of the programs structures 
+productivity of multiprogrammed computers progress 
+
+
+
+CACM-2437
+----------------------------------------------------
+of PERFORMANCE of the various key to address 
+average PERFORMANCE of the transformation methods on 
+all this can be done analytically the approach 
+general PERFORMANCE analysis of key to address 
+
+
+

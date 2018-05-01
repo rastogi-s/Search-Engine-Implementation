@@ -1,0 +1,90 @@
+CACM-3087
+----------------------------------------------------
+of SYSTEM components and examples of overall SYSTEM 
+illustrated with detailed examples of the operation 
+and the relationship of this SYSTEM to others 
+design and implementation of this SYSTEM is described and 
+
+
+
+CACM-2716
+----------------------------------------------------
+optimizing the performance of a RELATIONAL algebra DATABASE interface 
+refines the high level query specification supplied by 
+a methodology for composing them to optimize the 
+the user a RELATIONAL algebra interface called 
+
+
+
+CACM-2882
+----------------------------------------------------
+SYSTEMS effectiveness of the methodology is demonstrated 
+the retrieval workload of alternative DATA 
+scale DATA retrieval SYSTEMS has been scarce due 
+organization in DATA retrieval SYSTEMS 
+
+
+
+CACM-3026
+----------------------------------------------------
+registers the 1100 operating SYSTEM is designed 
+the 1100 series SYSTEMS are sperry univac s 
+in 1977 the 1100 series HARDWARE architecture 
+MODELS to the latest SYSTEM the 1100 80 introduced 
+
+
+
+CACM-1695
+----------------------------------------------------
+examinations of the gross characteristics of the DATA to 
+a neural NETWORK to analyze the output DATA produced 
+which enables a user to construct and specify 
+means for specification and modification of a NETWORK and 
+
+
+
+CACM-2715
+----------------------------------------------------
+memory SYSTEM and the sequel language have 
+query the optimization algorithms designed 
+for the AD hoc interactive problem solving by non COMPUTER 
+specialists a version of sequel that has 
+
+
+
+CACM-1844
+----------------------------------------------------
+the size and power of the machines used and the 
+process terminal jobs as they arrive one of the COMPUTERS 
+and supervises the collection and distribution of messages 
+computation requirements of the particular mix of users 
+
+
+
+CACM-2957
+----------------------------------------------------
+cacm june 1977 
+distinct from relations in third normal form it 
+aggregation is in troduced as an abstraction 
+a hierarchy on n ary relations to main tain well definedness 
+
+
+
+CACM-3142
+----------------------------------------------------
+concerns about the timeliness and the number of designs of very 
+MANAGEMENT SYSTEMS may be adequate results of the survey raise 
+them what can be learned by designers of large MANAGEMENT PACKAGES 
+art approximately 40 percent of individuals or households having 
+
+
+
+CACM-3112
+----------------------------------------------------
+lack this property because allocating a list cell 
+classical implementations of list processing SYSTEMS 
+requires time proportional to the heap size 
+and atom in lisp is bounded by a small constant 
+
+
+

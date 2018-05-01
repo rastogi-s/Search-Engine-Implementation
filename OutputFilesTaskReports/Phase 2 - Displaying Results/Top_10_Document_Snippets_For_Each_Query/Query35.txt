@@ -1,0 +1,90 @@
+CACM-1474
+----------------------------------------------------
+describe a series of experiments for TESTING the 
+assumed that the accumulated effect of roundoff 
+validity of these models it is concluded that the models 
+errors is in some sense statistical the purpose of this 
+
+
+
+CACM-2932
+----------------------------------------------------
+ca770901 jb december 28 1977 6 54 am 
+cacm september 1977 
+complexity of computations ALGEBRAIC complexity 
+complexity of computations 
+
+
+
+CACM-2165
+----------------------------------------------------
+including the derivation of the FIELD equations the 
+of the FIELD equations in the presence of matter in 
+ALGEBRA systems to problems of general relativity 
+a simple case attention is drawn to the strictly 
+
+
+
+CACM-3175
+----------------------------------------------------
+scheme results in improved estimates that finally lead to 
+letters these probabilities are updated in parallel for all 
+substitution ciphers are codes in which each letter 
+do not change in this paper the problem of breaking substitution 
+
+
+
+CACM-1397
+----------------------------------------------------
+strings in their applications and in ALGORITHMS for 
+and ALGEBRAIC MANIPULATION the program committee consisted 
+thomas e cheatham max goldstein and douglas mcllroy 
+for MANIPULATION of ALGEBRAIC formulas and SYMBOL 
+
+
+
+CACM-2645
+----------------------------------------------------
+language which includes most of the features of algol 
+on the analysis of ALGORITHMS and some of the directions 
+in the first language a go to less programming 
+by the first processor EXAMPLES of the usage 
+
+
+
+CACM-2836
+----------------------------------------------------
+the same structure as a given weighted derivation tree 
+the nodes of a weighted derivation tree are associated 
+for constructing the optimal derivation tree having 
+is established the method may be applied to problems 
+
+
+
+CACM-2580
+----------------------------------------------------
+the author has tried to address both musicians 
+to the layman it appears that full blown music theory 
+theory plus additional heuristics fundamental to the 
+is not needed for rounds all the hardware required 
+
+
+
+CACM-2560
+----------------------------------------------------
+the results are presented of an analysis of 
+is sequential dependency of accesses between the 
+devices expressions are obtained for the long run probability 
+a queuing model of a multiprogrammed 
+
+
+
+CACM-2681
+----------------------------------------------------
+an expression is derived for the maximum 
+chiu w 
+cacm march 1974 
+and the operating conditions that lead 
+
+
+

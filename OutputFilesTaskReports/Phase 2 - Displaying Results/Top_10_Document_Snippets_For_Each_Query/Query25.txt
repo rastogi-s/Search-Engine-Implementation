@@ -1,0 +1,90 @@
+CACM-2812
+----------------------------------------------------
+components problem statement language problem statement 
+SYSTEM design problem statement language 
+problem statement analyzer physical SYSTEM design 
+problem definition the analyzed problem statement 
+
+
+
+CACM-2319
+----------------------------------------------------
+an overview of the current and future positions 
+gaps still exist in out knowledge because of the 
+on the way we go about modularizing operating 
+more common and necessary in the near future 
+
+
+
+CACM-1908
+----------------------------------------------------
+cost for usage of the two COMPUTER SYSTEMS however 
+this study is the first known attempt to evaluate 
+a PERFORMANCE level equal to that of the batch 
+attitudes made time sharing the more favorable 
+
+
+
+CACM-2542
+----------------------------------------------------
+this SYSTEM is based on a simple high level language 
+which is used to describe the evolving SYSTEM 
+feedback the problems which adversely affect PERFORMANCE 
+the reasons for this failure are explored and a new methodology 
+
+
+
+CACM-2318
+----------------------------------------------------
+SYSTEMS and establishes circumstances under 
+models constitute a useful means of investigating 
+ca720710 jb january 30 1978 2 03 pm 
+which the use of a MODEL is appropriate 
+
+
+
+CACM-2344
+----------------------------------------------------
+the size of the store and the speed of the cpu a comparison 
+is made between the results of the simulation 
+in the measure of SYSTEM PERFORMANCE can be obtained by 
+auxiliary store is used to study the variation of SYSTEM 
+
+
+
+CACM-1719
+----------------------------------------------------
+real time SYSTEM analysis real time SYSTEM design 
+SYSTEM cost PERFORMANCE ratio 
+a methodology for calculating and 
+as typified by the automated airline reservation SYSTEM 
+
+
+
+CACM-2882
+----------------------------------------------------
+SYSTEMS effectiveness of the methodology is demonstrated 
+the retrieval workload of alternative data 
+scale data retrieval SYSTEMS has been scarce due 
+organization in data retrieval SYSTEMS 
+
+
+
+CACM-3048
+----------------------------------------------------
+point unit further it appears that many of the sophisticated 
+of the cpu memory subsystem of the ibm 360 91 is 
+in the architecture of the ibm 360 91 are of little 
+data streams of the real SYSTEM simulation of the 
+
+
+
+CACM-2741
+----------------------------------------------------
+paging SYSTEMS i unstable regimes of operations and ii 
+aggregation and the concept of nearly decomposable 
+into states of saturation this analysis leads to a 
+behavior and evaluate the PERFORMANCE of computing 
+
+
+

@@ -1,0 +1,90 @@
+CACM-1709
+----------------------------------------------------
+of the conventional ALGORITHM and this 
+the storage of an n x n matrix of data when the number 
+the computational technique conventionally used 
+of variables but with all computations performed 
+
+
+
+CACM-1344
+----------------------------------------------------
+and related symbolic specifications an efficient 
+based upon a machine readable STATISTICAL MODEL 
+cacm december 1966 
+schlater j e 
+
+
+
+CACM-1946
+----------------------------------------------------
+UNIVARIATE polynomials in which case collins reduced 
+truncation of real coefficients memory requirements 
+step of computation in solving systems of polynomial 
+introduced the extent of propagation of errors caused by 
+
+
+
+CACM-2216
+----------------------------------------------------
+in the case of uniform distribution of branching 
+effort STATISTICAL TESTS of the values of several 
+on the probability distribution of the values of binary trees 
+first moment in the cases of uniform and nonuniform 
+
+
+
+CACM-1474
+----------------------------------------------------
+describe a series of experiments for testing the 
+assumed that the accumulated effect of roundoff 
+validity of these MODELS it is concluded that the MODELS 
+errors is in some sense STATISTICAL the purpose of this 
+
+
+
+CACM-3138
+----------------------------------------------------
+imaginary unit 1 followed by least SQUARES addition of the column 
+ssive application of the givens transformation in modified more efficient 
+ALGORITHM are mentioned a simple means of constructing 
+an efficient and numerically stable method is presented for the problem of 
+
+
+
+CACM-3166
+----------------------------------------------------
+on difficult problems than are the other two 
+four ALGORITHMS for the numerical computation 
+of the ALGORITHMS one new one old are substantially more accurate 
+and computational literature the other two are new ALGORITHMS 
+
+
+
+CACM-1691
+----------------------------------------------------
+two generators to the ibm 360 is then discussed 
+behavior the older mixed and simple congruential 
+attributed to d h lehmer has passed the usual STATISTICAL 
+a comparison of the correlational behavior 
+
+
+
+CACM-1398
+----------------------------------------------------
+type problems in the biological and social sciences 
+termination of the searching process are derived 
+a new approach is outlined toward the solution 
+of the type of MULTIVARIATE problem that is 
+
+
+
+CACM-1171
+----------------------------------------------------
+also the ratio of the latter to the former 
+a comparison of the primal simplex and primal dual 
+a STATISTICAL comparison of the primal dual 
+the assumption of starting with a full artificial 
+
+
+

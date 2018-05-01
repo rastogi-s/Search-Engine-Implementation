@@ -1,0 +1,90 @@
+CACM-2951
+----------------------------------------------------
+if the ultimate aim of a computing NETWORK 
+well as the technical component of networking must 
+node the research clearly reveals that sufficient 
+in the vast store of RESOURCES available 
+
+
+
+CACM-2625
+----------------------------------------------------
+modification of the representation of capabilities is 
+because it provides the needed absolute ADDRESS 
+explained these inadequacies are traced to the 
+it is predicted that the use of tags to 
+
+
+
+CACM-3032
+----------------------------------------------------
+this delivery through a store and forward packet switching 
+than that required for the known alternatives 
+nodes of a NETWORK algorithms for accomplishing 
+cacm december 1978 
+
+
+
+CACM-2776
+----------------------------------------------------
+included the arpa NET the california state college NETWORK 
+in the future 
+were identified the five major NETWORKS 
+NETWORK the michigan educational research information triad 
+
+
+
+CACM-2949
+----------------------------------------------------
+on such a topology information SCHEME is that 
+to update this information one of the major constrain ts 
+a correctness proof of a topology information 
+NETWORK 
+
+
+
+CACM-1685
+----------------------------------------------------
+language designed for generating activity NETWORK from 
+gan a SYSTEM for generating activity NETWORKS 
+on activity NETWORKS scheduling activity NETWORKS 
+NETWORK generator NETWORK assembler activity 
+
+
+
+CACM-1928
+----------------------------------------------------
+of serial and simultaneous activities the passage of 
+as the event queue grows in length and a simulation 
+the elimination of manual processes in achieving 
+and asynchronous logic certain aspects 
+
+
+
+CACM-1695
+----------------------------------------------------
+examinations of the gross characteristics of the data to 
+a neural NETWORK to analyze the output data produced 
+which enables a user to construct and specify 
+means for specification and modification of a NETWORK and 
+
+
+
+CACM-2541
+----------------------------------------------------
+design of the language OPERATING SYSTEM 
+this paper explores the advantages of the concurrent 
+an overview of the ispl computer SYSTEM design 
+of hierarchical subsystems it also suggested an important 
+
+
+
+CACM-2892
+----------------------------------------------------
+proposed NETWORK protocol and compared with those for the current SYSTEM 
+for various models of SYSTEM use is studied 
+the SOURCE of this over head is separated into various 
+the form extent and effect of the communication line 
+
+
+

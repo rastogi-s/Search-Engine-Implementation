@@ -1,0 +1,90 @@
+CACM-2592
+----------------------------------------------------
+effectiveness and accuracy of the solutions provided 
+on generation of test problems for LINEAR PROGRAMMING codes 
+users of LINEAR PROGRAMMING COMPUTER codes have 
+this failure to adequately test the codes is that 
+
+
+
+CACM-1729
+----------------------------------------------------
+minit ALGORITHM for LINEAR PROGRAMMING ALGORITHM 333 h 
+5 41 
+sen s 
+cacm june 1968 
+
+
+
+CACM-2223
+----------------------------------------------------
+5 41 
+dahlstrand t 
+cacm january 1971 
+ca710111 jb february 8 1978 10 22 am 
+
+
+
+CACM-1863
+----------------------------------------------------
+minit ALGORITHM for LINEAR PROGRAMMING ALGORITHM 333 h 
+5 41 
+cacm july 1969 
+LINEAR PROGRAMMING dual simplex METHOD primal problem dual problem 
+
+
+
+CACM-2324
+----------------------------------------------------
+cacm july 1972 
+contributions are likely to be the documentation 
+current obstacles to practical use of these mathematical 
+management SCIENCE a view from nonlinear PROGRAMMING 
+
+
+
+CACM-3138
+----------------------------------------------------
+imaginary unit 1 followed by least squares addition of the column 
+ssive application of the givens transformation in modified more efficient 
+ALGORITHM are mentioned a simple means of constructing 
+an efficient and numerically stable METHOD is presented for the problem of 
+
+
+
+CACM-2285
+----------------------------------------------------
+a wide range of problems and the results have been extremely satisfactory 
+cacm september 1972 
+a COMPUTER PROGRAM based on lemke s complementary 
+problem lemke s ALGORITHM simplex METHOD 
+
+
+
+CACM-2475
+----------------------------------------------------
+fiala f 
+cacm july 1973 
+ca730711 jb january 23 1978 11 19 am 
+5 41 
+
+
+
+CACM-1905
+----------------------------------------------------
+this paper gives the theoretical background 
+for an implementation which is based upon the LU decomposition 
+round off error behavior the implementation 
+the simplex METHOD of LINEAR PROGRAMMING using LU decomposition 
+
+
+
+CACM-1914
+----------------------------------------------------
+integer PROGRAMMING LINEAR algebra mathematical 
+cacm april 1969 
+matrix scaling by integer PROGRAMMING ALGORITHM 348 f1 
+5 14 5 41 
+
+
+

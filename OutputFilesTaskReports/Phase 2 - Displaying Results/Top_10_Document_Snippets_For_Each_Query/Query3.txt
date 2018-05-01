@@ -1,0 +1,90 @@
+CACM-3115
+----------------------------------------------------
+segment of the natural numbers are placed in one to one 
+orderly enumeration of nonsingular binary 
+binary matrix key leverage is obtained by using the 
+this natural number is transformed to a nonsingular 
+
+
+
+CACM-1387
+----------------------------------------------------
+which arise when the coefficients are truncated 
+itself appears in appropriate however in the solution 
+of large systems of equation due to the explosive 
+in solving systems of polynomial equations it is found 
+
+
+
+CACM-0637
+----------------------------------------------------
+were described in the neliac LANGUAGE and generated 
+1401 programs was described in the neliac LANGUAGE and 
+completed in may 1961 in which the neliac system 
+1401 COMPILER which runs on the 7090 and produces 
+
+
+
+CACM-1134
+----------------------------------------------------
+reflecting the structure of the machine that is more 
+some effects of the 6600 computer on LANGUAGE structures 
+compilations of a series of arithmetic statements are 
+the compiling method several assumptions are made 
+
+
+
+CACM-3130
+----------------------------------------------------
+computer science undergraduate programs is presented in terms of 
+computer sciences courses computer science curriculum computer 
+to undergraduate computer science education such as service 
+science education computer science undergraduate degree 
+
+
+
+CACM-1572
+----------------------------------------------------
+the simulation of time sharing systems 
+described in this paper the resulting model has 
+development of a comprehensive simulation model 
+systems has raised a number of problems for 
+
+
+
+CACM-1029
+----------------------------------------------------
+to the method is the decomposition of the given 
+function by introduction of INTERMEDIATE variables 
+library of elementary function subroutines is provided 
+derivation of analytical derivatives is laborious and 
+
+
+
+CACM-2061
+----------------------------------------------------
+in the second part the utility of the algorithm is discuss 
+ED in the light of the experience gained from its use in COMPILER design 
+an algorithm for the CONSTRUCTION of bounded context parsers 
+pushdown automata which generate the different reduction classes 
+
+
+
+CACM-1807
+----------------------------------------------------
+analysis of the definition points of the variables 
+the objectives of the processing are 1 to 
+a method of optimizing the computation of 
+code without significantly reducing the compilation 
+
+
+
+CACM-1003
+----------------------------------------------------
+statement of the physical laws is a principle 
+some known exact solutions of the heat equation 
+are used explicitly in the program usually this results 
+calorimeter to handle the complexities arising 
+
+
+

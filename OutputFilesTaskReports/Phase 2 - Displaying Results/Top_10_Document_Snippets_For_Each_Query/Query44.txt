@@ -1,0 +1,90 @@
+CACM-2829
+----------------------------------------------------
+of regions of the pattern definition function the shape 
+permitting the simulation of the mirror reflections 
+onto the surface the intensity of the pattern at each 
+algorithm allows accurate computation of 
+
+
+
+CACM-2523
+----------------------------------------------------
+based on topology and size the method has 
+textured regions is described TEXTURE edges in the 
+been applied to the construction of cloud cover maps 
+a propagation process the resulting map is cleaned 
+
+
+
+CACM-2751
+----------------------------------------------------
+the quality of COMPUTER generated images of 
+considered in the development of a shading rule that 
+PERCEPTION and the fundamental laws of optics are 
+tube screen the shading algorithm itself depends 
+
+
+
+CACM-2771
+----------------------------------------------------
+braid i c 
+SYNTHESIS three dimensional modeling 
+perform addition are described for practical designers 
+of operations suffice to build up complex solids bounded by many faces 
+
+
+
+CACM-2210
+----------------------------------------------------
+the desired program is extracted from the proof the 
+the induction rule used and the form of the program 
+same technique is applied to transform recursively 
+a program satisfying certain specifications a theorem 
+
+
+
+CACM-2325
+----------------------------------------------------
+of computation algorithms continuous algorithms 
+of numerical mathematics are discussed these are foundations 
+complexity SYNTHESIS and ANALYSIS of algorithms 
+ANALYSIS of error programs and program libraries 
+
+
+
+CACM-2683
+----------------------------------------------------
+assistance this paper discusses techniques 
+appropriate weak interpretations to obtain certain 
+the SYNTHESIS of loop predicates 
+methods which derive loop predicates from boundary conditions 
+
+
+
+CACM-1686
+----------------------------------------------------
+suggested COMPUTER holograms have been made of three dimensional 
+applications display device photography physics 
+apertures for the image is discussed photographs 
+3 17 3 19 5 19 
+
+
+
+CACM-2924
+----------------------------------------------------
+b splines and the surface is in terpolated between sections 
+technique employed is a modified lofting method on 
+developed for the rapid generation of arbitrary 
+means for man machine communication and software for 
+
+
+
+CACM-2687
+----------------------------------------------------
+memory of the character generator to synthesize 
+minimum number of patterns required in the read only 
+organization to include general graphics the feasibility 
+of such a display is shown by deriving the 
+
+
+

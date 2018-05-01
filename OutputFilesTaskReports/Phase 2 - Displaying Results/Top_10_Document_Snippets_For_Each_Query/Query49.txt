@@ -1,0 +1,90 @@
+CACM-2990
+----------------------------------------------------
+proofs of the effectiveness with respect to a 
+ways much of the published evaluation work is BASED 
+to the frequency of occurrence of the term in the 
+the performance of INFORMATION RETRIEVAL SYSTEMS 
+
+
+
+CACM-1699
+----------------------------------------------------
+some of the mechanical and psychological limitations 
+of the research is that an INFORMATION RETRIEVAL SYSTEM 
+of the tools which would be available to him were 
+SYSTEMS laboratory the basic assumption 
+
+
+
+CACM-1725
+----------------------------------------------------
+which indicate the digit values present in 
+the individual digit columns of the memory thus the 
+of the word length in this paper a very 
+aspects of the structure of sets of binary 
+
+
+
+CACM-3134
+----------------------------------------------------
+moreover this method incorporates an improved modification of the inverted 
+d RETRIEVAL of INFORMATION are described this method is particularly 
+suitable for queries requesting a group of INFORMATION items 
+are described for a certain class of INFORMATION SYSTEMS 
+
+
+
+CACM-3012
+----------------------------------------------------
+of the use of an interactive computerized storage 
+of the study for the design of similar SYSTEMS are discussed 
+the results show the important ROLE played 
+SYSTEM provided usage data for the study additional 
+
+
+
+CACM-1032
+----------------------------------------------------
+performance and the second is a self generating subset 
+the nonrelevant and penalizes the SYSTEM for the 
+of three major components a identification 
+for retrieving relevant documents and not retrieving 
+
+
+
+CACM-2882
+----------------------------------------------------
+SYSTEMS effectiveness of the methodology is demonstrated 
+the RETRIEVAL workload of alternative data 
+scale data RETRIEVAL SYSTEMS has been scarce due 
+organization in data RETRIEVAL SYSTEMS 
+
+
+
+CACM-2307
+----------------------------------------------------
+earlier file processing and of normal collection 
+are continually added and old ones are retired 
+the current ROLE of computers in automatic 
+document processing is briefly outlined and some 
+
+
+
+CACM-2390
+----------------------------------------------------
+and the ROLE required of readers writers and 
+the drawbacks that this places on research it is suggested 
+interactive SYSTEM organization of scientific community 
+of papers in the mathematical sciences and 
+
+
+
+CACM-1681
+----------------------------------------------------
+query expressed in the RETRIEVAL SYSTEM s original symbolic 
+data BASE the moore school INFORMATION SYSTEMS laboratory 
+of the transformations performed upon a sample 
+is sent to the SYSTEM a macro flowchart of easy 
+
+
+

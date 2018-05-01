@@ -1,0 +1,90 @@
+CACM-2986
+----------------------------------------------------
+compute linear precedence functions in o n 2 steps 
+grammar t canonical precedence RELATION 
+of precedence RELATIONS for a context free grammar can be 
+RELATION linear precedence function slr 
+
+
+
+CACM-2210
+----------------------------------------------------
+the desired program is extracted from the proof the 
+the INDUCTION rule used and the form of the program 
+same technique is applied to transform recursively 
+a program satisfying certain specifications a THEOREM 
+
+
+
+CACM-2031
+----------------------------------------------------
+for the number of iterations of the euclidean algorithm for two INTEGERS 
+a new version of the euclidean 
+is presented the number of arithmetic operations and the number 
+is extended to the case of n INTEGERS an algorithm to construct a minimal 
+
+
+
+CACM-2981
+----------------------------------------------------
+is strong enough for the INDUCTION steps 
+of a proof by subgoal INDUCTION to be valid 
+INDUCTION rule computation INDUCTION inductive 
+INDUCTION can be viewed as a specialized form of computation 
+
+
+
+CACM-2769
+----------------------------------------------------
+although it executes faster for sparse matrices 
+on most computers particularly in a paging environment 
+by a boolean MATRIX the algorithm is similar to warshall s 
+warren h s jr 
+
+
+
+CACM-1609
+----------------------------------------------------
+the same period are grouped together in all possible 
+ca670406 jb february 28 1978 11 22 am 
+course which may have their examinations scheduled at 
+by removing multiple occurrences of courses and then scheduling 
+
+
+
+CACM-2648
+----------------------------------------------------
+INTEGERS the package has been coded in ibm s basic 
+number THEORY package trial division multiprecise 
+ca740505 jb january 17 1978 4 09 pm 
+language and conditional assembly an optimally coded 
+
+
+
+CACM-1836
+----------------------------------------------------
+functions for precedence grammars 
+functions when given the precedence MATRIX this algorithm 
+parsing transition MATRIX precedence 
+vectors called linear precedence functions a new algorithm 
+
+
+
+CACM-1948
+----------------------------------------------------
+1 3 3 15 5 39 
+ca690101 jb february 20 1978 1 27 pm 
+the most important areas of application at present are 
+symbol manipulation systems in this survey the 
+
+
+
+CACM-0495
+----------------------------------------------------
+of the normal equations are the elements of a symmetric 
+of the symmetry thus when programmed for a high speed 
+capacity to handle a larger MATRIX the following procedure 
+adjustment of several parameters the COEFFICIENTS 
+
+
+

@@ -1,0 +1,90 @@
+CACM-3125
+----------------------------------------------------
+to move each expression directly to the entrance of the outermost 
+information or restrictions on the shape of the program graph 
+linear with the size of the program and that it leads 
+the elimination of redundant computations and the moving of invariant 
+
+
+
+CACM-2195
+----------------------------------------------------
+of the problem is not embedded in the recognition algorithm 
+in the particular problem is achieved the relation 
+the complexity of the OPTIMIZATION process is then discussed 
+between the structure of the figure of merit and 
+
+
+
+CACM-2701
+----------------------------------------------------
+shown to treat a very general class of function spaces 
+improvement problems which can be solved using the algorithm 
+larger classes of function spaces and graphs by relaxing 
+for a graph of e edges the algorithm has a 
+
+
+
+CACM-2344
+----------------------------------------------------
+the size of the store and the speed of the cpu a comparison 
+is made between the results of the simulation 
+in the measure of system performance can be obtained by 
+auxiliary store is used to study the variation of system 
+
+
+
+CACM-2716
+----------------------------------------------------
+optimizing the performance of a relational algebra database interface 
+refines the high level query specification supplied by 
+a methodology for composing them to optimize the 
+the user a relational algebra interface called 
+
+
+
+CACM-2923
+----------------------------------------------------
+of high level data flow analysis that allows free use 
+the parse tree the need for high level flow analysis 
+many familiar GLOBAL flow analysis problems an 
+advanced methods of program certification and OPTIMIZATION 
+
+
+
+CACM-1807
+----------------------------------------------------
+analysis of the definition points of the variables 
+the objectives of the processing are 1 to 
+a method of optimizing the computation of 
+CODE without significantly reducing the compilation 
+
+
+
+CACM-1947
+----------------------------------------------------
+medlock c w 
+used to do GLOBAL common expression elimination 
+fortran graph theory LOOP structure machine 
+cacm january 1969 
+
+
+
+CACM-2944
+----------------------------------------------------
+deutsch and bobrow the necessary features of which are 
+storage reclamation overhead to be partially 
+shifting garbage collection overhead to compile time 
+management 
+
+
+
+CACM-3069
+----------------------------------------------------
+is unique in that it can compute all of this 
+a new interprocedural data flow analysis algorithm 
+side effects relations reference parameters 
+data flow analysis GLOBAL flow analysis OPTIMIZATION 
+
+
+

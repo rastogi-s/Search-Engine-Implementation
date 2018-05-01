@@ -1,0 +1,90 @@
+CACM-2997
+----------------------------------------------------
+the convex hulls of sets of n poin ts in two 
+least o n log n operations the time COMPLEXITY of the 
+convex hulls of finite sets of poin ts in two and three dimensions 
+planar set of poin ts spatial set of 
+
+
+
+CACM-3086
+----------------------------------------------------
+between linear functions of the interval endpoints 
+measure of the union of n possibly overlapping 
+discussing the effects of the COMPUTATIONAL model on 
+on the COMPLEXITY of computing the measure of u ai BI 
+
+
+
+CACM-2337
+----------------------------------------------------
+ALGORITHMS is given one new ALGORITHM for 
+technique 
+ca720608 jb january 30 1978 4 15 pm 
+a technique for proving min max norms of sorting 
+
+
+
+CACM-2325
+----------------------------------------------------
+of COMPUTATION ALGORITHMS continuous ALGORITHMS 
+of numerical mathematics are discussed these are foundations 
+COMPLEXITY synthesis and analysis of ALGORITHMS 
+analysis of error programs and program libraries 
+
+
+
+CACM-2927
+----------------------------------------------------
+without preprocessing use of preprocessing techniques 
+mairson h g 
+tradeoffs reduces this upper bound to o n log logn 
+n a modified sieve of eratosthenes using doubly linked 
+
+
+
+CACM-3018
+----------------------------------------------------
+the number of COMPLETE subgraphs a relationship 
+this optimization problem is here shown to be equivalent 
+between this edge clique cover problem and the graph coloring 
+edge clique cover problem are shown to be np COMPLETE 
+
+
+
+CACM-2702
+----------------------------------------------------
+the COMPLEXITY of the problem depends very strongly 
+testing the lr k property where n is the size of the 
+k and the subject grammar are problem parameters then 
+the problem of determining whether an arbitrary 
+
+
+
+CACM-2110
+----------------------------------------------------
+an efficient context free parsing ALGORITHM 
+ALGORITHM known is described it is similar to both knuth s lr k ALGORITHM 
+4 12 5 22 5 23 
+CLASS of grammars which seems to include most practical context free 
+
+
+
+CACM-3163
+----------------------------------------------------
+the more general avl trees to within a constant factor however 
+more complicated than the corresponding ALGORITHMS for avl trees 
+time o log 2n moreover the o log n COMPLEXITY is optimal earlier 
+the insertion and deletion ALGORITHMS for oshb trees appear much 
+
+
+
+CACM-2837
+----------------------------------------------------
+new upper bounds for selection 
+much wider range of application this generalization 
+worst case analysis 
+cacm september 1976 
+
+
+

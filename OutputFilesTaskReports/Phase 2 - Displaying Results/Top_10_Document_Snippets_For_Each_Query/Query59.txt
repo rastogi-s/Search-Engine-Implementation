@@ -1,0 +1,90 @@
+CACM-1456
+----------------------------------------------------
+an experimental system that uses lisp to make 
+and answering simple ENGLISH questions are given an 
+powerful vehicle for research on the LOGIC of question answering 
+material the resulting structure serves as a 
+
+
+
+CACM-1700
+----------------------------------------------------
+an equality is in conclusive the WORDS of the 
+WORDS using the inclusive or operation if at search 
+is not equal to the question mask then one or 
+program using the device has been operational 
+
+
+
+CACM-3087
+----------------------------------------------------
+of system components and examples of overall system 
+illustrated with detailed examples of the operation 
+and the relationship of this system to others 
+design and implementation of this system is described and 
+
+
+
+CACM-2905
+----------------------------------------------------
+comparison with ordinary HASHING is given which 
+way perfect HASHING functions i e functions transforming 
+the first METHOD the quotient reduction METHOD is 
+shown to be complete in the sense that for every 
+
+
+
+CACM-3041
+----------------------------------------------------
+optimum binary search tree a discussion of the 
+of the tree and high search speed unlike 
+value which partitions the remaining keys with 
+presented and the performance obtained is contrasted 
+
+
+
+CACM-1681
+----------------------------------------------------
+query expressed in the RETRIEVAL system s original symbolic 
+data base the moore school INFORMATION systems laboratory 
+of the transformations performed upon a sample 
+is sent to the system a macro flowchart of easy 
+
+
+
+CACM-1235
+----------------------------------------------------
+suggested by an analysis of the results 
+trials the accuracy of the coder was 91 to 93 with 
+about half of the WORD events in a corpus are identified 
+class or part of speech the program operates at relatively 
+
+
+
+CACM-1855
+----------------------------------------------------
+techniques for keeping the size of the analysis 
+and an outline account is given of the analysis procedure 
+of ENGLISH WORDS and that it pursues all analysis paths 
+simultaneously while processing the sentence 
+
+
+
+CACM-2127
+----------------------------------------------------
+and LOGICAL analysis of ENGLISH strings it is concluded 
+systems based on dictionaries with thousands of entries with 
+to summarize the METHODS that have been developed for syntactic semantic 
+generalizing from current small scale experiments to LANGUAGE processing 
+
+
+
+CACM-2437
+----------------------------------------------------
+of performance of the various key to address 
+average performance of the transformation METHODS on 
+all this can be done analytically the approach 
+general performance analysis of key to address 
+
+
+

@@ -1,0 +1,90 @@
+CACM-3078
+----------------------------------------------------
+analysis of the availability of computer 
+processes the potential range of application of these techniques 
+is much wider than the problem of availability 
+of obtaining analytical solutions to markov processes 
+
+
+
+CACM-2434
+----------------------------------------------------
+is examined several omissions in his model are noted 
+denning s method for selecting the working set 
+4 3 
+these omissions using this modified model dening s results 
+
+
+
+CACM-0616
+----------------------------------------------------
+first phase of the work of the language structure 
+structure group of the codasyl development committee 
+this report represents the results of the 
+with appreciation by the businessman analyst manager 
+
+
+
+CACM-2863
+----------------------------------------------------
+vmin an optimal variable space page replacement algorithm 
+realizable variable space algorithms 
+demand paging performance measurement multilevel 
+PRIEVE b g 
+
+
+
+CACM-1046
+----------------------------------------------------
+present paper describes some of the major features 
+the purpose of this paper is purely expository 
+in a number of ARTICLES published during the 
+of their system it expands on some points that the original 
+
+
+
+CACM-1012
+----------------------------------------------------
+and of a working parsing algorithm the connection 
+g v u t r consists of two finite disjoint 
+and syntax directed compilers a formal parsing system 
+between structures assigned by the analyzer and those of 
+
+
+
+CACM-1931
+----------------------------------------------------
+evaluation computational results show the accuracy 
+cacm february 1969 
+with straightforward use of i in determinant 
+and its use in testing for a chebyshev system 
+
+
+
+CACM-0531
+----------------------------------------------------
+record linkage in the updating of files is 
+in the maintenance of a psychiatric case register 
+physician reports refer to the same individual name 
+psychiatric agencies refer to the same patient 
+
+
+
+CACM-3129
+----------------------------------------------------
+file runs out of space the system must be reorganized this paper considers 
+serial files storage allocation reorganization partitioned dataset 
+several criteria for best allocating storage space to the files 
+transactions each transaction or job generates a demand vector which 
+
+
+
+CACM-1397
+----------------------------------------------------
+strings in their applications and in algorithms for 
+and algebraic manipulation the program committee consisted 
+thomas e cheatham max goldstein and douglas mcllroy 
+for manipulation of algebraic formulas and symbol 
+
+
+

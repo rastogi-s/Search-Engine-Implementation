@@ -1,0 +1,90 @@
+CACM-2851
+----------------------------------------------------
+enumeration of the set of all possible control states 
+a special case of the assertions method which 
+methods are special cases of the induction principle 
+yields an extension to the deadlock problem 
+
+
+
+CACM-3059
+----------------------------------------------------
+and applied to the analysis of these problems 
+for systemtems in which the i o system is more 
+is developed by network decomposition the 
+utilized than the cpu 
+
+
+
+CACM-2785
+----------------------------------------------------
+glypnir is one of the earliest existing LANGUAGES 
+the syntax of the LANGUAGE is based on algol 60 but has 
+designed for programming the illiac iv computer 
+to specify the parallelism of his algorithm in terms of 64 word 
+
+
+
+CACM-2266
+----------------------------------------------------
+to the zeros is guaranteed multiple zeros and 
+5 15 
+a highly PARALLEL algorithm for approximating 
+their multiplicity are readily determined at no 
+
+
+
+CACM-3075
+----------------------------------------------------
+location 
+PARALLEL processing sorting algorithms bucket sort 
+n using n 1 1 k processors for k an arbitrary 
+integer the model of COMPUTATION for this procedure 
+
+
+
+CACM-2714
+----------------------------------------------------
+steps in the general case and km p k 1 2 m p log2 
+m in the special case where n km 
+PARALLEL processing PARALLEL merging PARALLEL binary insertion 
+b n m n and p p m PARALLEL processors 
+
+
+
+CACM-2342
+----------------------------------------------------
+of the existence of certain sequences a mechanical 
+to any of the interference properties it is shown 
+and the associated subproblems are formulated 
+the formation of partial rules and the calculation of 
+
+
+
+CACM-1601
+----------------------------------------------------
+which use the technique of the procedures in 
+a single new approximation to the root in question a 
+solution of equations provide at each stage 
+classical iterative procedures for the numerical 
+
+
+
+CACM-2700
+----------------------------------------------------
+deadlock free reduction interruptible indivisible 
+method process COMPUTATION sequence 
+reduction a method of proving properties of PARALLEL programs 
+cannot be interleaved with the rest of the program 
+
+
+
+CACM-2865
+----------------------------------------------------
+correctness proof can be used to prove such 
+application to the dining philosophers problem 
+but they are not strong enough in most cases 
+which are added to a PARALLEL program as 
+
+
+

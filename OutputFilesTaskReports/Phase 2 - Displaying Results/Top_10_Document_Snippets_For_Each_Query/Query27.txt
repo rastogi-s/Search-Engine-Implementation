@@ -1,0 +1,90 @@
+CACM-2297
+----------------------------------------------------
+the model presented the number of page frames of 
+of the number of page frames allocated 
+an increase is obtain able in the average execution 
+interval of the multiprogrammed load over that resulting 
+
+
+
+CACM-2902
+----------------------------------------------------
+dynamic MEMORY allocation in computer simulation 
+simulation MEMORY MANAGEMENT simulation techniques 
+or MEMORY ordered free lists generally performed 
+free space lists for each size of MEMORY block used 
+
+
+
+CACM-2988
+----------------------------------------------------
+of finite MEMORY size and workload MEMORY requirements 
+MEMORY MANAGEMENT and response time 
+ca770304 jb december 30 1977 12 51 am 
+time and MEMORY utilization are graphically 
+
+
+
+CACM-1752
+----------------------------------------------------
+the discussion particular emphasis is placed on balancing 
+of the task scheduling and paging algorithms that were implemented 
+and the results of comparative simulation 
+to alternate hardware characteristics and the 
+
+
+
+CACM-1892
+----------------------------------------------------
+parameters implications of the results to time shared 
+for a wide range of key environment descriptive 
+a burst of page demands at the beginning of any job 
+offers a base for understanding the relationship 
+
+
+
+CACM-3006
+----------------------------------------------------
+occur in paged virtual MEMORY OPERATING SYSTEMS 
+a redefined one type of anomaly for example concerns 
+anomaly implications of these properties presented 
+anomalies with variable partition paging algorithms 
+
+
+
+CACM-2864
+----------------------------------------------------
+at any given time and the reasonableness of the definition 
+and the transitions between these localities 
+of locality sizes and lifetimes and these results are 
+programs empirical data from a sample of production 
+
+
+
+CACM-2798
+----------------------------------------------------
+by determining the distribution of the number of MEMORY 
+and the analysis of the model by monte 
+cycle results of the simulations and an analytical 
+to the MEMORY SYSTEM performance is measured 
+
+
+
+CACM-1750
+----------------------------------------------------
+of the faster MEMORY 
+generalization of such a design special emphasis is 
+an observation is made on the use of conventional slower 
+of the hardware arrangement and the software components 
+
+
+
+CACM-1751
+----------------------------------------------------
+be manifestations of the same ongoing computational 
+program behavior in this paper a new model the 
+of pages associated with a process defined to be 
+working set model is developed the working set 
+
+
+

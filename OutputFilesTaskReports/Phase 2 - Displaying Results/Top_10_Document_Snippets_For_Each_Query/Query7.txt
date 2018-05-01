@@ -1,0 +1,90 @@
+CACM-3043
+----------------------------------------------------
+is proposed for real time applications controlled by 
+hansen p 
+and scheduling sorting arrays coroutines classes 
+regions programming languages PROCESS communication 
+
+
+
+CACM-2342
+----------------------------------------------------
+of the existence of certain sequences a mechanical 
+to any of the interference properties it is shown 
+and the associated subproblems are formulated 
+the formation of partial rules and the calculation of 
+
+
+
+CACM-2949
+----------------------------------------------------
+on such a topology information scheme is that 
+to update this information one of the major constrain ts 
+a CORRECTNESS proof of a topology information 
+network 
+
+
+
+CACM-3128
+----------------------------------------------------
+to protection mechanisms in the system is explained in particular 
+systems the mechanism is defined formally and then several 
+examples of its use are given the relationship of the mechanism 
+exclusion to protect manipulations of shared variables that control 
+
+
+
+CACM-2376
+----------------------------------------------------
+PROCESS communication PROCESS scheduling 
+formalization of a well defined synchronization 
+4 30 4 32 4 39 4 9 
+cacm march 1972 
+
+
+
+CACM-2865
+----------------------------------------------------
+CORRECTNESS proof can be used to prove such 
+application to the dining philosophers problem 
+but they are not strong enough in most cases 
+which are added to a parallel PROGRAM as 
+
+
+
+CACM-2740
+----------------------------------------------------
+of operating systems the project management 
+semaphores the number of parallel PROCESSES is carefully 
+justified and the various semaphore constructions 
+sequential PROCESSES the PROCESSES SYNCHRONIZE by 
+
+
+
+CACM-1854
+----------------------------------------------------
+of the interrupt and permits the specification of CONCURRENT 
+a basis for the construction of operating systems 
+and test on the ibm system 360 two PROGRAMS using these 
+instructions for the generation termination and synchronization 
+
+
+
+CACM-3141
+----------------------------------------------------
+MESSAGE extinction in order to achieve an average number of 
+controller exists and the number of PROCESSES is not known a priori 
+MESSAGE passes of order n log n rather than o n2 
+ALGORITHM for finding the largest or smallest of a set of uniquely 
+
+
+
+CACM-2851
+----------------------------------------------------
+enumeration of the set of all possible control states 
+a special case of the assertions method which 
+methods are special cases of the induction principle 
+yields an extension to the deadlock problem 
+
+
+

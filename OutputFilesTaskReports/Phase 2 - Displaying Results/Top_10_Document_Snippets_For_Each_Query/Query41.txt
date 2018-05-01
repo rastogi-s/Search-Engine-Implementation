@@ -1,0 +1,90 @@
+CACM-3128
+----------------------------------------------------
+to protection mechanisms in the SYSTEM is explained in particular 
+SYSTEMS the mechanism is defined formally and then several 
+examples of its use are given the relationship of the mechanism 
+exclusion to protect manipulations of shared variables that control 
+
+
+
+CACM-3043
+----------------------------------------------------
+is proposed for real time applications controlled by 
+hansen p 
+and scheduling sorting arrays coroutines classes 
+regions programming languages PROCESS communication 
+
+
+
+CACM-1747
+----------------------------------------------------
+the scope of the criteria the notion of an abstract 
+of the criteria concern the reading of 
+and the assignment of capability indexes 
+and ASYNCHRONOUS reproducibility of output these criteria 
+
+
+
+CACM-3082
+----------------------------------------------------
+time clocks and the ordering of events in a DISTRIBUTED SYSTEM 
+on how far out of synchrony the clocks can 
+the concept of one event happening before 
+problems the ALGORITHM is then specialized 
+
+
+
+CACM-2342
+----------------------------------------------------
+of the existence of certain sequences a mechanical 
+to any of the interference properties it is shown 
+and the associated subproblems are formulated 
+the formation of partial rules and the calculation of 
+
+
+
+CACM-1751
+----------------------------------------------------
+be manifestations of the same ongoing computational 
+program behavior in this paper a new MODEL the 
+of pages associated with a PROCESS defined to be 
+working set MODEL is developed the working set 
+
+
+
+CACM-2740
+----------------------------------------------------
+of operating SYSTEMS the project management 
+semaphores the number of PARALLEL PROCESSES is carefully 
+justified and the various semaphore constructions 
+sequential PROCESSES the PROCESSES synchronize by 
+
+
+
+CACM-2376
+----------------------------------------------------
+PROCESS communication PROCESS scheduling 
+formalization of a well defined SYNCHRONIZATION 
+4 30 4 32 4 39 4 9 
+cacm march 1972 
+
+
+
+CACM-2128
+----------------------------------------------------
+by means of a method for efficiently handling dynamically changing segmented 
+a processor ALLOCATION method for time sharing 
+cacm january 1970 
+lists 
+
+
+
+CACM-2522
+----------------------------------------------------
+announced this report discusses the design and 
+dependent upon the ALGORITHMS employed to allocate 
+the design implementation and evaluation of a working set dispatcher 
+the behavior of a computer SYSTEM is largely 
+
+
+

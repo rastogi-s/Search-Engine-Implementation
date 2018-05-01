@@ -1,0 +1,90 @@
+CACM-3148
+----------------------------------------------------
+to DISTRIBUTED COMPUTING at the level of general purpose programming 
+is a problem of growing interest this paper describes an approach 
+languages based on primitive notions of module message 
+of particular languages and machines it appears to be useful for 
+
+
+
+CACM-3137
+----------------------------------------------------
+system from the perspective of the end user the making evident the effect of 
+of an interactive transaction processing system 
+describes the major costs of using an information 
+a methodology for the design of DISTRIBUTED information systems 
+
+
+
+CACM-2949
+----------------------------------------------------
+on such a topology information scheme is that 
+to update this information one of the major constrain ts 
+a correctness proof of a topology information 
+network 
+
+
+
+CACM-3043
+----------------------------------------------------
+is proposed for real time applications controlled by 
+hansen p 
+and scheduling sorting arrays coroutines classes 
+regions programming languages process communication 
+
+
+
+CACM-3082
+----------------------------------------------------
+time clocks and the ordering of events in a DISTRIBUTED system 
+on how far out of synchrony the clocks can 
+the concept of one event happening before 
+problems the ALGORITHM is then specialized 
+
+
+
+CACM-2276
+----------------------------------------------------
+the exponential distribution a definite recommendation 
+simulation numerical analysis 
+into sampling steps an approach which may be used for 
+ones are compared in terms of memory requirements 
+
+
+
+CACM-3128
+----------------------------------------------------
+to protection mechanisms in the system is explained in particular 
+systems the mechanism is defined formally and then several 
+examples of its use are given the relationship of the mechanism 
+exclusion to protect manipulations of shared variables that control 
+
+
+
+CACM-2816
+----------------------------------------------------
+the database will increase due to structural 
+a basic problem is to establish the proper tradeoff between 
+points numerical examples based on the characteristics 
+in most database organizations the cost of accessing 
+
+
+
+CACM-2578
+----------------------------------------------------
+self stabilizing systems in spite of DISTRIBUTED control 
+ca741106 jb january 16 1978 10 18 am 
+multiprocessing networks self stabilization synchronization 
+mutual exclusion robustness sharing 
+
+
+
+CACM-2406
+----------------------------------------------------
+a data definition and mapping language 
+a data definition language i sa declarative 
+data definition language data and storage STRUCTURE 
+most data definition languages concentrate on the declaration 
+
+
+

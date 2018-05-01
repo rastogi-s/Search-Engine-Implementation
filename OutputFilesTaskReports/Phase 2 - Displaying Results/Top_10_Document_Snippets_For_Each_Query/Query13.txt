@@ -1,0 +1,90 @@
+CACM-2897
+----------------------------------------------------
+for most contexts of the concatenate statement the CODE 
+on the result each statement has only one possible 
+CODE produced by a conventional pl i optimizing 
+expansion the task of tailoring this CODE to take 
+
+
+
+CACM-1947
+----------------------------------------------------
+medlock c w 
+used to do global common expression elimination 
+fortran graph theory loop structure machine 
+cacm january 1969 
+
+
+
+CACM-3080
+----------------------------------------------------
+that OPTIMIZATION of the genre of this paper can result 
+hand coded examples of the usefulness of such a system 
+bypassing the start of the program and the detection 
+to a low level language is described a primary use of 
+
+
+
+CACM-3054
+----------------------------------------------------
+implement the quicksort sorting algorithm and its 
+this paper is a practical study of how to 
+best variants on real computers including how to apply 
+ca781007 dh january 29 1979 5 40 pm 
+
+
+
+CACM-2253
+----------------------------------------------------
+the paper is therefore preoccupied with indexing 
+name and indexing by position is discussed 
+in the matrix calculi described by the authors 
+indexing by position index domain index map index 
+
+
+
+CACM-2929
+----------------------------------------------------
+of the procedure body the general problem of 
+approximate algorithmic solution is proposed the algorithm 
+depends on run time statistics about the 
+an analysis of inline substitution for a structured programming language 
+
+
+
+CACM-2944
+----------------------------------------------------
+deutsch and bobrow the necessary features of which are 
+storage reclamation overhead to be partially 
+shifting garbage collection overhead to compile time 
+management 
+
+
+
+CACM-1807
+----------------------------------------------------
+analysis of the definition points of the variables 
+the objectives of the processing are 1 to 
+a method of optimizing the computation of 
+CODE without significantly reducing the compilation 
+
+
+
+CACM-2904
+----------------------------------------------------
+including linear function test replacement 
+compilers OPTIMIZATION of compiled CODE program analysis 
+4 12 5 24 5 32 
+a simple algorithm which uses an indexed temporary 
+
+
+
+CACM-1223
+----------------------------------------------------
+the object CODE which would be most efficient 
+is briefly described the last two passes 
+a three pass compiler with the following properties 
+only one which hasto read the bulky problem oriented 
+
+
+

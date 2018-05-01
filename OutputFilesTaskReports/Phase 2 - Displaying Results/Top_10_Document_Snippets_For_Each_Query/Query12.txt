@@ -1,0 +1,90 @@
+CACM-3127
+----------------------------------------------------
+thoth isa real time OPERATING SYSTEM which is designed to be PORTABLE 
+programs which use it are written in a high level language 
+ca790206 dh april 12 1979 9 10 am 
+hardware it has the same interface to user programs hence 
+
+
+
+CACM-3068
+----------------------------------------------------
+precise definition of data security is developed 
+many of those properties of an OPERATING SYSTEM which 
+are necessary to assure reliable enforcement of 
+security the application of this approach to the 
+
+
+
+CACM-1930
+----------------------------------------------------
+extremely PORTABLE random number generator 
+or equal to 4 while the small modulus which must 
+number analysis random generators linear sequential 
+standardized way the literature on random number 
+
+
+
+CACM-1680
+----------------------------------------------------
+material without reprogramming illustrations of the various 
+iv g for the ibm SYSTEM 360 model 40 and the ibm 2250 
+computer operations such as simulation programming and 
+and flexibility of computer assisted instruction 
+
+
+
+CACM-1747
+----------------------------------------------------
+the scope of the criteria the notion of an abstract 
+of the criteria concern the reading of 
+and the assignment of capability indexes 
+and asynchronous reproducibility of output these criteria 
+
+
+
+CACM-1462
+----------------------------------------------------
+multilevel OPERATING SYSTEMS 
+is built on the well established need for standard 
+OPERATING SYSTEMS this implies that all applications no 
+the basic software for all newer computers 
+
+
+
+CACM-1750
+----------------------------------------------------
+of the faster memory 
+generalization of such a design special emphasis is 
+an observation is made on the use of conventional slower 
+of the hardware arrangement and the software components 
+
+
+
+CACM-2111
+----------------------------------------------------
+errors sample 360 coding for performing spelling correction 
+ca700204 jb february 14 1978 10 40 am 
+several specialized techniques are shown for efficiently 
+morgan h l 
+
+
+
+CACM-2372
+----------------------------------------------------
+decision rules and whose row and column indices are 
+users and data items respectively a set of four 
+dependent and data independent decision rules enables 
+security features of several existing SYSTEMS and serves 
+
+
+
+CACM-2319
+----------------------------------------------------
+an overview of the current and future positions 
+gaps still exist in out knowledge because of the 
+on the way we go about modularizing OPERATING 
+more common and necessary in the near future 
+
+
+

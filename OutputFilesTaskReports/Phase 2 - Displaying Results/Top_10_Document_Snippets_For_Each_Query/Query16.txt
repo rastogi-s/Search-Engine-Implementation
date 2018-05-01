@@ -1,0 +1,90 @@
+CACM-2378
+----------------------------------------------------
+the part of the supervisor which executes these 
+in detail outlines the remainder of the supervisor and 
+discusses some of the advantages of this approach 
+part of the supervisor usually a wait on the occurrence 
+
+
+
+CACM-1135
+----------------------------------------------------
+a PROCESS e g changes affecting only one of the output 
+is identified as characteristic of the class 
+express only information characteristic of the particular 
+the structural analysis of the class of PROCESSES to be represented 
+
+
+
+CACM-2740
+----------------------------------------------------
+of OPERATING SYSTEMS the project management 
+semaphores the number of parallel PROCESSES is carefully 
+justified and the various semaphore constructions 
+sequential PROCESSES the PROCESSES synchronize by 
+
+
+
+CACM-1750
+----------------------------------------------------
+of the faster memory 
+generalization of such a design special emphasis is 
+an observation is made on the use of conventional slower 
+of the hardware arrangement and the software components 
+
+
+
+CACM-2342
+----------------------------------------------------
+of the existence of certain sequences a mechanical 
+to any of the interference properties it is shown 
+and the associated subproblems are formulated 
+the formation of partial rules and the calculation of 
+
+
+
+CACM-2184
+----------------------------------------------------
+and a storable object of type context manipulations 
+the two functions are discussed in terms of the 
+lambda calculus theory of programming 
+to which they overlap it is suggested that there 
+
+
+
+CACM-3141
+----------------------------------------------------
+MESSAGE extinction in order to achieve an average number of 
+controller exists and the number of PROCESSES is not known a priori 
+MESSAGE passes of order n log n rather than o n2 
+algorithm for finding the largest or smallest of a set of uniquely 
+
+
+
+CACM-1854
+----------------------------------------------------
+of the interrupt and permits the specification of concurrent 
+a basis for the construction of OPERATING SYSTEMS 
+and test on the ibm SYSTEM 360 two programs using these 
+instructions for the generation termination and synchronization 
+
+
+
+CACM-2629
+----------------------------------------------------
+ca740702 jb january 17 1978 1 40 pm 
+OPERATING SYSTEMS including 1 a hierarchical file SYSTEM 
+cacm july 1974 
+unix is a general purpose MULTI user interactive 
+
+
+
+CACM-2522
+----------------------------------------------------
+announced this report discusses the design and 
+dependent upon the algorithms employed to allocate 
+the design implementation and evaluation of a working set dispatcher 
+the behavior of a computer SYSTEM is largely 
+
+
+

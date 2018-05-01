@@ -1,0 +1,90 @@
+CACM-2451
+----------------------------------------------------
+such trees to serve a well specified application the 
+PERFORMANCE and that of an intuitively attractive 
+techniques on the other hand it is potentially 
+the process of locating the desired responses 
+
+
+
+CACM-2979
+----------------------------------------------------
+learning large scale programming systems and novel 
+making under uncertain ty and risk automatic 
+also been in terest in how humans make deductive and inductive 
+been the game of poker a conceptual framework has been 
+
+
+
+CACM-1699
+----------------------------------------------------
+some of the mechanical and psychological limitations 
+of the research is that an INFORMATION RETRIEVAL SYSTEM 
+of the tools which would be available to him were 
+systems laboratory the basic assumption 
+
+
+
+CACM-2598
+----------------------------------------------------
+additional conditions to be added to the DECISION 
+to the INFORMATION algorithm in extending the depth 
+table finally the INFORMATION algorithm is compared 
+limited entry DECISION tables to computer 
+
+
+
+CACM-1032
+----------------------------------------------------
+PERFORMANCE and the second is a self generating subset 
+the nonrelevant and penalizes the SYSTEM for the 
+of three major components a identification 
+for retrieving relevant documents and not retrieving 
+
+
+
+CACM-2970
+----------------------------------------------------
+as the regenerative state a second example then 
+illustrates the method using the empty and idle state 
+describes how using the most frequently entered state 
+this paper extends the use of the regenerative 
+
+
+
+CACM-1194
+----------------------------------------------------
+the history of the establishment of the acm repository 
+1 easy accessibility to the INFORMATION files by users 
+the main catalog is used to describe the documents 
+to the acm repository consisted of 315 documents 
+
+
+
+CACM-2722
+----------------------------------------------------
+proven maximum running time of o n k t k 
+data structure can handle many types of queries 
+of searches o n log n SEARCH algorithms 
+SEARCH tree or k d tree where k is the dimensionality 
+
+
+
+CACM-2990
+----------------------------------------------------
+proofs of the effectiveness with respect to a 
+ways much of the published evaluation work is based 
+to the frequency of occurrence of the TERM in the 
+the PERFORMANCE of INFORMATION RETRIEVAL systems 
+
+
+
+CACM-2622
+----------------------------------------------------
+the scheme are discussed 
+by anyone attempting to intrude the scheme is based 
+a USER authentication scheme not requiring secrecy in the computer 
+have access to the table but he can penetrate the SYSTEM 
+
+
+

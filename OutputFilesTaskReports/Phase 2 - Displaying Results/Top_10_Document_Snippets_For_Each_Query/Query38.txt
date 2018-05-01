@@ -1,0 +1,90 @@
+CACM-3031
+----------------------------------------------------
+the process of proving the correctness of an implementation 
+thrust of the paper is twofold first it is shown how 
+a DATA abstraction can be naturally specified 
+formal specification of a DATA TYPE an example 
+
+
+
+CACM-3105
+----------------------------------------------------
+expression of access constraints on shared DATA 
+to objects that are components of larger objects 
+language but is particularly suitable for extending 
+access constraints can apply both to simple objects and 
+
+
+
+CACM-2470
+----------------------------------------------------
+QUESTIONS of local and global environments and of 
+with the use of the paradoxical combinator y the 
+as a DATA item and how imperative statements 
+structuring and uniting it is also demonstrated 
+
+
+
+CACM-3103
+----------------------------------------------------
+is discussed this process is discussed in detail for 
+an example program general issues in DATA structure 
+proved to be very helpful in constructing and 
+thus the programs produced using ABSTRACT TYPES were 
+
+
+
+CACM-2931
+----------------------------------------------------
+a portion of the field and there has been perhaps too 
+the definition of the precise meaning of a program 
+in the efficiency of decision methods have become available 
+so far the theories of automata and of nets though 
+
+
+
+CACM-2940
+----------------------------------------------------
+the properties of the generators for such iterations 
+and the control structure of the language itself a 
+to be expressed in the form of proof rules are developed 
+means of showing that a generator will terminate is also provided 
+
+
+
+CACM-2939
+----------------------------------------------------
+in the programming process of these only the 
+means of programming examples the utility of the three 
+be written to use and implement abstractions the 
+control abstractions this paper provides an in troduction 
+
+
+
+CACM-2651
+----------------------------------------------------
+and very flexible DATA TYPE behavior in a CONTEXT that 
+programmer defined DATA TYPES DATA TYPES and generic 
+treatment of DATA TYPES includes provision for 
+set of DATA TYPES and associated operations in a manner 
+
+
+
+CACM-2957
+----------------------------------------------------
+cacm june 1977 
+distinct from relations in third normal form it 
+aggregation is in troduced as an abstraction 
+a hierarchy on n ary relations to main tain well definedness 
+
+
+
+CACM-2082
+----------------------------------------------------
+formation of QUESTIONS to the programmer whose answers will 
+in the LITERATURE is worked out as an example 
+indexed documentation automatic interrogation 
+the language pl 360 together with its PHRASE structure grammar is used as a 
+
+
+
